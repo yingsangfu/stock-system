@@ -1,0 +1,36 @@
+name: 信息抓取管线
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每30分钟(公开仓库免费不限量;私有仓库请改为 "0 */2 * * *")
+  workflow_dispatch:          # 允许手动触发
+permissions:
+  contents: write
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser requests python-dotenv
+      - run: python fetch_and_process.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          MODEL_NAME: ${{ secrets.MODEL_NAME }}
+          USER_DOMAINS: ${{ secrets.USER_DOMAINS }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          SCORE_THRESHOLD: ${{ secrets.SCORE_THRESHOLD }}
+      - name: 提交数据
+        run: |
+          git config user.name "info-agent-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "update feed $(date -u +%m%d-%H%M)"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
+          git push
