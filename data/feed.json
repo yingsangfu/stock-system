@@ -1,8 +1,56 @@
 {
- "updated": "2026-07-30T23:56:28+08:00",
- "total": 6,
- "high_priority": 2,
+ "updated": "2026-07-31T01:40:25+08:00",
+ "total": 8,
+ "high_priority": 3,
  "items": [
+  {
+   "id": "c64a1ce4f0d20e3d",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
+   "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "美联储缺乏指引加剧通胀担忧，债券收益率高企",
+   "key_data": [
+    "政府债券收益率保持高位",
+    "美联储控制通胀努力引发担忧",
+    "借贷成本受影响"
+   ],
+   "logic_chain": [
+    "美联储政策不确定性导致通胀预期上升",
+    "通胀预期推高债券收益率"
+   ],
+   "anchor_q": "若美联储继续模糊指引，如何调整债券持仓？",
+   "ts": "2026-07-31T01:40:24+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
+  {
+   "id": "84de588539dce513",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
+   "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "Citadel在竞价战后救助AI对冲基金Situational Awareness",
+   "key_data": [
+    "Kenneth Griffin同意介入",
+    "经过短暂竞价战",
+    "提供所需现金"
+   ],
+   "logic_chain": [
+    "Situational Awareness面临资金短缺",
+    "Citadel在竞价战后决定提供救助"
+   ],
+   "anchor_q": "Citadel救助AI对冲基金是否预示AI在资管加速渗透？",
+   "ts": "2026-07-31T01:40:24+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
   {
    "id": "209469b6674d4f13",
    "module": "美股投资",
