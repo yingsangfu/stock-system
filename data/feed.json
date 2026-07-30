@@ -1,0 +1,146 @@
+{
+ "updated": "2026-07-30T21:54:09+08:00",
+ "total": 6,
+ "high_priority": 2,
+ "items": [
+  {
+   "id": "209469b6674d4f13",
+   "module": "美股投资",
+   "source": "FRB: Press Release - All Releases",
+   "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "美联储压力测试显示大银行能抵御严重衰退并继续放贷",
+   "key_data": [
+    "美联储完成年度银行压力测试"
+   ],
+   "logic_chain": [
+    "压力测试结果显示银行资本充足",
+    "增强市场对金融系统稳定性信心"
+   ],
+   "anchor_q": "压力测试结果是否已充分反映在银行股当前估值中？",
+   "ts": "2026-07-30T21:52:04+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  },
+  {
+   "id": "5f240602dcad391b",
+   "module": "美股投资",
+   "source": "FRB: Press Release - All Releases",
+   "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "美联储提议稳定币发行者实施客户识别程序",
+   "key_data": [
+    "美联储请求评论",
+    "提案要求稳定币发行者维护有效客户识别程序"
+   ],
+   "logic_chain": [
+    "监管机构加强对稳定币的监管",
+    "稳定币发行者合规成本可能上升"
+   ],
+   "anchor_q": "该提案若通过，对稳定币市场有何影响？",
+   "ts": "2026-07-30T21:53:07+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  },
+  {
+   "id": "aa3b236033b6366b",
+   "module": "美股投资",
+   "source": "FRB: Press Release - All Releases",
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "美联储发布6月FOMC会议经济预测",
+   "key_data": [
+    "美联储和FOMC发布经济预测",
+    "会议日期为6月16-17日"
+   ],
+   "logic_chain": [
+    "经济预测发布提供政策路径线索",
+    "市场参与者据此调整预期"
+   ],
+   "anchor_q": "这些预测相比之前有何变化？",
+   "ts": "2026-07-30T21:53:07+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  },
+  {
+   "id": "d97bc32deb63e26f",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US economic growth slows to 1.5% in second quarter",
+   "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+   "score": 9.5,
+   "star": 3,
+   "core_conclusion": "美国Q2 GDP增长放缓至1.5%，前值2.1%",
+   "key_data": [
+    "Q2 GDP年化增长率1.5%",
+    "前值2.1%"
+   ],
+   "logic_chain": [
+    "经济增长放缓可能缓解通胀压力",
+    "美联储或调整货币政策节奏"
+   ],
+   "anchor_q": "增长放缓是否会导致美联储推迟加息？",
+   "ts": "2026-07-30T21:53:07+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  },
+  {
+   "id": "6233229dde067841",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Shell profits double as oil prices rise due to Iran war",
+   "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "伊朗冲突致霍尔木兹海峡供应中断，推高油价，壳牌利润翻倍。",
+   "key_data": [
+    "壳牌利润翻倍",
+    "霍尔木兹海峡石油和液化天然气供应中断",
+    "油价上涨"
+   ],
+   "logic_chain": [
+    "伊朗战争导致霍尔木兹海峡供应中断",
+    "供应中断推高油价，壳牌利润增长"
+   ],
+   "anchor_q": "油价上涨是否可持续？对能源股估值有何影响？",
+   "ts": "2026-07-30T21:54:08+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  },
+  {
+   "id": "1d55afaa55b814ba",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "The Chinese robot army transforming the UK's retail industry",
+   "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "英国劳动力短缺和低生产力为中国机器人公司创造零售业机会。",
+   "key_data": [
+    "英国生产力增长弱",
+    "劳动力短缺",
+    "中国机器人公司进入英国零售业"
+   ],
+   "logic_chain": [
+    "英国劳动力短缺和低生产力",
+    "中国机器人公司填补空缺"
+   ],
+   "anchor_q": "中国机器人公司能否持续渗透英国市场？",
+   "ts": "2026-07-30T21:54:08+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-30",
+   "feedback": ""
+  }
+ ]
+}
