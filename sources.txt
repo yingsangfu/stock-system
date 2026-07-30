@@ -1,0 +1,7 @@
+# 美股
+https://www.federalreserve.gov/feeds/press_all.xml
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=8-K&dateb=&owner=include&count=10&output=atom
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=8-K&dateb=&owner=include&count=10&output=atom
+# 新闻
+https://feeds.bbci.co.uk/news/business/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
