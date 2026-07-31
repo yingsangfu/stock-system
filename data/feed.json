@@ -1,8 +1,31 @@
 {
- "updated": "2026-07-31T23:04:05+08:00",
- "total": 12,
+ "updated": "2026-08-01T01:06:26+08:00",
+ "total": 13,
  "high_priority": 5,
  "items": [
+  {
+   "id": "fc7f06776f707464",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Companies Rush to Close Daring Deals Under Trump",
+   "url": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "NextEra Energy与Dominion Energy于五月宣布合并",
+   "key_data": [
+    "NextEra Energy与Dominion Energy宣布合并",
+    "合并宣布于五月"
+   ],
+   "logic_chain": [
+    "特朗普政府放松监管，促进企业并购",
+    "能源公司通过合并扩大规模与竞争力"
+   ],
+   "anchor_q": "特朗普政策下能源行业并购是否加速？",
+   "ts": "2026-08-01T01:06:25+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-01",
+   "feedback": ""
+  },
   {
    "id": "9c1a70a411a2b771",
    "module": "美股投资",
