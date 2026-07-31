@@ -1,8 +1,31 @@
 {
- "updated": "2026-07-31T20:30:10+08:00",
- "total": 11,
+ "updated": "2026-07-31T23:04:05+08:00",
+ "total": 12,
  "high_priority": 5,
  "items": [
+  {
+   "id": "9c1a70a411a2b771",
+   "module": "美股投资",
+   "source": "FRB: Press Release - All Releases",
+   "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+   "score": 6.8,
+   "star": 1,
+   "core_conclusion": "美联储就银行内部人信贷规则现代化征求意见。",
+   "key_data": [
+    "美联储就银行内部人信贷规则征求意见",
+    "内部人包括高管、董事、主要股东"
+   ],
+   "logic_chain": [
+    "现有内部人信贷规则可能不适应现代银行业务",
+    "更新规则以平衡内部人贷款便利与风险控制"
+   ],
+   "anchor_q": "该提案若通过，将如何影响银行股的风险评估？",
+   "ts": "2026-07-31T23:04:04+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
   {
    "id": "8cd492c1493b46d8",
    "module": "新闻监控",
