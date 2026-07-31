@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-01T04:22:17+08:00",
- "total": 14,
- "high_priority": 5,
+ "updated": "2026-08-01T05:41:12+08:00",
+ "total": 15,
+ "high_priority": 6,
  "items": [
+  {
+   "id": "272a0c9327e3ab2b",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+   "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "美联储新主席考虑减少政策会议频率",
+   "key_data": [
+    "Kevin M. Warsh于5月接任美联储主席",
+    "他在本周会议上提出改变会议频率的想法"
+   ],
+   "logic_chain": [
+    "减少会议频率意味着更少的政策调整机会",
+    "市场可能因此增加对未来利率的不确定性"
+   ],
+   "anchor_q": "美联储会议频率变化将如何影响市场波动？",
+   "ts": "2026-08-01T05:41:11+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-01",
+   "feedback": ""
+  },
   {
    "id": "53a360b574c82c4e",
    "module": "新闻监控",
