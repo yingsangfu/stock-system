@@ -1,8 +1,76 @@
 {
- "updated": "2026-07-31T18:09:58+08:00",
- "total": 8,
- "high_priority": 3,
+ "updated": "2026-07-31T20:30:10+08:00",
+ "total": 11,
+ "high_priority": 5,
  "items": [
+  {
+   "id": "8cd492c1493b46d8",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+   "url": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
+   "score": 10.0,
+   "star": 3,
+   "core_conclusion": "美联储官员因通胀担忧对维持利率不变产生分歧",
+   "key_data": [
+    "美联储官员对维持利率不变有异议",
+    "分歧发生在Kevin Warsh任期内",
+    "通胀担忧是原因"
+   ],
+   "logic_chain": [
+    "通胀担忧加剧",
+    "美联储内部对暂停加息产生分歧"
+   ],
+   "anchor_q": "美联储内部分歧是否预示加息周期重启？",
+   "ts": "2026-07-31T20:29:25+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
+  {
+   "id": "f8ef0fb63b507cd2",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "What a Hedge Fund’s Implosion Says About the A.I. Trade",
+   "url": "https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html",
+   "score": 10.0,
+   "star": 3,
+   "core_conclusion": "对冲基金Situational Awareness因AI交易波动爆仓",
+   "key_data": [
+    "对冲基金Situational Awareness爆仓",
+    "由Leopold Aschenbrenner运营",
+    "AI交易波动大"
+   ],
+   "logic_chain": [
+    "AI交易波动大",
+    "对冲基金押注AI失败"
+   ],
+   "anchor_q": "AI交易爆仓是否预示AI泡沫破裂？",
+   "ts": "2026-07-31T20:29:25+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
+  {
+   "id": "da9622d4266f9153",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Iran War Drives Oil Profits to Highest Levels in Years",
+   "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "伊朗战争推动油价上涨，石油生产商利润创多年新高。",
+   "key_data": [],
+   "logic_chain": [
+    "伊朗战争导致石油供应风险上升",
+    "油价上涨直接提升石油生产商利润"
+   ],
+   "anchor_q": "当前油价上涨是否已充分反映在能源股估值中？",
+   "ts": "2026-07-31T20:30:09+08:00",
+   "source_type": "rss",
+   "push_date": "2026-07-31",
+   "feedback": ""
+  },
   {
    "id": "c64a1ce4f0d20e3d",
    "module": "新闻监控",
