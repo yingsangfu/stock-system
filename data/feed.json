@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-01T19:19:39+08:00",
- "total": 15,
+ "updated": "2026-08-01T20:34:34+08:00",
+ "total": 16,
  "high_priority": 6,
  "items": [
+  {
+   "id": "0cb570a199f97230",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The High-Stakes Battle for Invisible Real Estate in Space",
+   "url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "无线电频谱价值上升，SpaceX与政府争夺控制权",
+   "key_data": [
+    "无线电频谱价值上升",
+    "SpaceX与政府争夺频谱控制权"
+   ],
+   "logic_chain": [
+    "无线电频谱稀缺，通信需求推高价值",
+    "价值上升引发公司与政府争夺"
+   ],
+   "anchor_q": "频谱争夺对通信行业上市公司有何影响？",
+   "ts": "2026-08-01T20:34:33+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-01",
+   "feedback": ""
+  },
   {
    "id": "272a0c9327e3ab2b",
    "module": "新闻监控",
