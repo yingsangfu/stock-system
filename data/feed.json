@@ -1,8 +1,52 @@
 {
- "updated": "2026-08-02T16:55:42+08:00",
- "total": 16,
- "high_priority": 6,
+ "updated": "2026-08-02T18:46:53+08:00",
+ "total": 18,
+ "high_priority": 7,
  "items": [
+  {
+   "id": "e961536436492cfc",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "More Young College Graduates Are Living At Home. Is That a Bad Thing?",
+   "url": "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "更多大学毕业生因经济原因与父母同住",
+   "key_data": [
+    "Tommy Balmat从UC Santa Cruz毕业后搬回父母家"
+   ],
+   "logic_chain": [
+    "高房价和学生贷款压力",
+    "毕业生选择与父母同住以节省开支"
+   ],
+   "anchor_q": "这一趋势如何影响租房和购房市场需求？",
+   "ts": "2026-08-02T18:45:50+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-02",
+   "feedback": ""
+  },
+  {
+   "id": "a30b4bad14f37829",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The Ultra-Rich Are Moving to Miami, and Want Their Money Managers There, Too",
+   "url": "https://www.nytimes.com/2026/08/02/business/family-offices-miami.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "超级富豪迁往迈阿密带动财富管理需求",
+   "key_data": [
+    "Peter Thiel在迈阿密830 Brickell tower租赁空间打破租金记录"
+   ],
+   "logic_chain": [
+    "富人寻求税收优惠和更好生活环境",
+    "财富管理公司跟随客户迁往迈阿密"
+   ],
+   "anchor_q": "迈阿密能否挑战纽约成为新的财富管理中心？",
+   "ts": "2026-08-02T18:45:50+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-02",
+   "feedback": ""
+  },
   {
    "id": "0cb570a199f97230",
    "module": "新闻监控",
