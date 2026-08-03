@@ -1,8 +1,54 @@
 {
- "updated": "2026-08-03T21:43:45+08:00",
- "total": 17,
- "high_priority": 9,
+ "updated": "2026-08-04T00:30:26+08:00",
+ "total": 13,
+ "high_priority": 7,
  "items": [
+  {
+   "id": "b0e01932f3b107c1",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+   "url": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "美国联手日本干预汇市，防范日元贬值风险外溢。",
+   "key_data": [
+    "美国财政部参与干预",
+    "日元对美元下滑"
+   ],
+   "logic_chain": [
+    "日本市场动荡引发美国担忧",
+    "联合干预旨在稳定汇率"
+   ],
+   "anchor_q": "日元干预会否引发套利交易逆转？",
+   "ts": "2026-08-04T00:30:25+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
+  {
+   "id": "67f0f5d2029ef801",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+   "url": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "SpaceX股票锁定期周四到期，内部人士可售股。",
+   "key_data": [
+    "锁定期到期日: 周四",
+    "内部人士可出售股份"
+   ],
+   "logic_chain": [
+    "锁定期结束增加股票供给",
+    "供给增加可能导致股价波动"
+   ],
+   "anchor_q": "SpaceX抛售压力会否波及科技板块？",
+   "ts": "2026-08-04T00:30:25+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
   {
    "id": "84347f34e4cd14a1",
    "module": "新闻监控",
@@ -246,145 +292,6 @@
    "ts": "2026-08-01T01:06:25+08:00",
    "source_type": "rss",
    "push_date": "2026-08-01",
-   "feedback": ""
-  },
-  {
-   "id": "9c1a70a411a2b771",
-   "module": "美股投资",
-   "source": "FRB: Press Release - All Releases",
-   "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-   "score": 6.8,
-   "star": 1,
-   "core_conclusion": "美联储就银行内部人信贷规则现代化征求意见。",
-   "key_data": [
-    "美联储就银行内部人信贷规则征求意见",
-    "内部人包括高管、董事、主要股东"
-   ],
-   "logic_chain": [
-    "现有内部人信贷规则可能不适应现代银行业务",
-    "更新规则以平衡内部人贷款便利与风险控制"
-   ],
-   "anchor_q": "该提案若通过，将如何影响银行股的风险评估？",
-   "ts": "2026-07-31T23:04:04+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
-   "feedback": ""
-  },
-  {
-   "id": "8cd492c1493b46d8",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
-   "url": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
-   "score": 10.0,
-   "star": 3,
-   "core_conclusion": "美联储官员因通胀担忧对维持利率不变产生分歧",
-   "key_data": [
-    "美联储官员对维持利率不变有异议",
-    "分歧发生在Kevin Warsh任期内",
-    "通胀担忧是原因"
-   ],
-   "logic_chain": [
-    "通胀担忧加剧",
-    "美联储内部对暂停加息产生分歧"
-   ],
-   "anchor_q": "美联储内部分歧是否预示加息周期重启？",
-   "ts": "2026-07-31T20:29:25+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
-   "feedback": ""
-  },
-  {
-   "id": "f8ef0fb63b507cd2",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "What a Hedge Fund’s Implosion Says About the A.I. Trade",
-   "url": "https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html",
-   "score": 10.0,
-   "star": 3,
-   "core_conclusion": "对冲基金Situational Awareness因AI交易波动爆仓",
-   "key_data": [
-    "对冲基金Situational Awareness爆仓",
-    "由Leopold Aschenbrenner运营",
-    "AI交易波动大"
-   ],
-   "logic_chain": [
-    "AI交易波动大",
-    "对冲基金押注AI失败"
-   ],
-   "anchor_q": "AI交易爆仓是否预示AI泡沫破裂？",
-   "ts": "2026-07-31T20:29:25+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
-   "feedback": ""
-  },
-  {
-   "id": "da9622d4266f9153",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Iran War Drives Oil Profits to Highest Levels in Years",
-   "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "伊朗战争推动油价上涨，石油生产商利润创多年新高。",
-   "key_data": [],
-   "logic_chain": [
-    "伊朗战争导致石油供应风险上升",
-    "油价上涨直接提升石油生产商利润"
-   ],
-   "anchor_q": "当前油价上涨是否已充分反映在能源股估值中？",
-   "ts": "2026-07-31T20:30:09+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
-   "feedback": ""
-  },
-  {
-   "id": "c64a1ce4f0d20e3d",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
-   "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
-   "score": 7.5,
-   "star": 2,
-   "core_conclusion": "美联储缺乏指引加剧通胀担忧，债券收益率高企",
-   "key_data": [
-    "政府债券收益率保持高位",
-    "美联储控制通胀努力引发担忧",
-    "借贷成本受影响"
-   ],
-   "logic_chain": [
-    "美联储政策不确定性导致通胀预期上升",
-    "通胀预期推高债券收益率"
-   ],
-   "anchor_q": "若美联储继续模糊指引，如何调整债券持仓？",
-   "ts": "2026-07-31T01:40:24+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
-   "feedback": ""
-  },
-  {
-   "id": "84de588539dce513",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
-   "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
-   "score": 8.5,
-   "star": 3,
-   "core_conclusion": "Citadel在竞价战后救助AI对冲基金Situational Awareness",
-   "key_data": [
-    "Kenneth Griffin同意介入",
-    "经过短暂竞价战",
-    "提供所需现金"
-   ],
-   "logic_chain": [
-    "Situational Awareness面临资金短缺",
-    "Citadel在竞价战后决定提供救助"
-   ],
-   "anchor_q": "Citadel救助AI对冲基金是否预示AI在资管加速渗透？",
-   "ts": "2026-07-31T01:40:24+08:00",
-   "source_type": "rss",
-   "push_date": "2026-07-31",
    "feedback": ""
   }
  ]
