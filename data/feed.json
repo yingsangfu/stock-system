@@ -1,8 +1,54 @@
 {
- "updated": "2026-08-03T07:33:28+08:00",
- "total": 13,
- "high_priority": 6,
+ "updated": "2026-08-03T11:23:06+08:00",
+ "total": 15,
+ "high_priority": 8,
  "items": [
+  {
+   "id": "442d6699b4a8b790",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US and Japan jointly intervene to prop up yen in rare move",
+   "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "美日罕见联合干预汇市以支撑日元",
+   "key_data": [
+    "美日联合干预日元",
+    "双方表示未来不排除再次联合干预"
+   ],
+   "logic_chain": [
+    "日元持续贬值压力",
+    "美日协调行动稳定汇率预期"
+   ],
+   "anchor_q": "联合干预能否逆转日元长期贬值趋势？",
+   "ts": "2026-08-03T11:23:05+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-03",
+   "feedback": ""
+  },
+  {
+   "id": "46fb5b44f9f00285",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+   "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
+   "score": 8.4,
+   "star": 3,
+   "core_conclusion": "特朗普确认美财政部上周干预汇市稳定日元",
+   "key_data": [
+    "特朗普确认财政部干预",
+    "干预发生在上周"
+   ],
+   "logic_chain": [
+    "日元汇率波动",
+    "美国财政部干预并获总统公开确认"
+   ],
+   "anchor_q": "美国干预汇市的政策持续性如何？",
+   "ts": "2026-08-03T11:23:05+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-03",
+   "feedback": ""
+  },
   {
    "id": "659bfccd11b73501",
    "module": "新闻监控",
