@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-03T18:47:11+08:00",
- "total": 16,
- "high_priority": 8,
+ "updated": "2026-08-03T21:43:45+08:00",
+ "total": 17,
+ "high_priority": 9,
  "items": [
+  {
+   "id": "84347f34e4cd14a1",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
+   "url": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "特朗普称伊朗和谈恢复，全球市场上涨",
+   "key_data": [
+    "特朗普声明伊朗和平谈判恢复",
+    "全球市场上涨"
+   ],
+   "logic_chain": [
+    "地缘政治风险缓和预期",
+    "市场风险偏好上升，全球股市上涨"
+   ],
+   "anchor_q": "伊朗和谈进展是否可持续，对油价和美股有何后续影响？",
+   "ts": "2026-08-03T21:43:44+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-03",
+   "feedback": ""
+  },
   {
    "id": "f5fcc180966ff876",
    "module": "新闻监控",
