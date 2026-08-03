@@ -1,8 +1,28 @@
 {
- "updated": "2026-08-03T14:45:05+08:00",
- "total": 15,
+ "updated": "2026-08-03T18:47:11+08:00",
+ "total": 16,
  "high_priority": 8,
  "items": [
+  {
+   "id": "f5fcc180966ff876",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "What Are Companies Getting for All That A.I. Spending?",
+   "url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "出现'tokenomics'新领域衡量AI投资回报",
+   "key_data": [],
+   "logic_chain": [
+    "企业大量投资AI但回报不明确",
+    "催生专门衡量AI回报的tokenomics领域"
+   ],
+   "anchor_q": "tokenomics能否成为评估AI投资的有效工具？",
+   "ts": "2026-08-03T18:47:10+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-03",
+   "feedback": ""
+  },
   {
    "id": "442d6699b4a8b790",
    "module": "新闻监控",
