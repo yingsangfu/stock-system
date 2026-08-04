@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-04T12:45:38+08:00",
- "total": 16,
+ "updated": "2026-08-04T15:43:32+08:00",
+ "total": 17,
  "high_priority": 8,
  "items": [
+  {
+   "id": "8d4f0206281b6d72",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
+   "url": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
+   "score": 7.7,
+   "star": 2,
+   "core_conclusion": "沙特阿美利润增33%，高油价与管道策略抵消干扰。",
+   "key_data": [
+    "利润增长33%",
+    "高油价推动盈利",
+    "使用管道绕过霍尔木兹海峡干扰"
+   ],
+   "logic_chain": [
+    "霍尔木兹海峡受战争干扰",
+    "沙特阿美改用管道运输，维持出口，受益于高油价"
+   ],
+   "anchor_q": "沙特阿美的管道策略能否持续抵御地缘风险？",
+   "ts": "2026-08-04T15:43:31+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
   {
    "id": "0f95cdfdc1084cfd",
    "module": "新闻监控",
