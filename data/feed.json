@@ -1,8 +1,80 @@
 {
- "updated": "2026-08-04T09:02:03+08:00",
- "total": 13,
- "high_priority": 7,
+ "updated": "2026-08-04T12:45:38+08:00",
+ "total": 16,
+ "high_priority": 8,
  "items": [
+  {
+   "id": "0f95cdfdc1084cfd",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US states sue to block Trump tariffs impacting dozens of countries",
+   "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "美国多州起诉阻止特朗普对60国征收关税",
+   "key_data": [
+    "美国多州起诉",
+    "关税针对60个贸易伙伴",
+    "理由为强迫劳动"
+   ],
+   "logic_chain": [
+    "关税增加企业成本，影响美股相关板块",
+    "州起诉可能延缓或推翻关税，增加政策不确定性"
+   ],
+   "anchor_q": "州起诉能否成功阻止关税？",
+   "ts": "2026-08-04T12:45:37+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
+  {
+   "id": "278c58f332e18e81",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+   "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "美以袭击伊朗导致霍尔木兹海峡关闭，水手被困",
+   "key_data": [
+    "2月28日美以袭击伊朗",
+    "伊朗关闭霍尔木兹海峡",
+    "数千水手被困"
+   ],
+   "logic_chain": [
+    "海峡关闭阻碍原油运输，推高油价",
+    "油价上涨影响通胀和股市，尤其是能源和航运板块"
+   ],
+   "anchor_q": "霍尔木兹海峡关闭将持续多久？",
+   "ts": "2026-08-04T12:45:37+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
+  {
+   "id": "8d4525f28a34bc02",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+   "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "美财长贝森特进行日元稳定押注",
+   "key_data": [
+    "Scott Bessent为美财长",
+    "上周进行日元货币押注",
+    "旨在稳定日元"
+   ],
+   "logic_chain": [
+    "美财长干预汇市影响美元/日元汇率",
+    "汇率波动影响跨国企业盈利和资本流动"
+   ],
+   "anchor_q": "贝森特的押注能否有效稳定日元？",
+   "ts": "2026-08-04T12:45:37+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
   {
    "id": "b0e01932f3b107c1",
    "module": "新闻监控",
