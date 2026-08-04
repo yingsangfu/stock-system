@@ -1,8 +1,56 @@
 {
- "updated": "2026-08-04T15:43:32+08:00",
- "total": 17,
- "high_priority": 8,
+ "updated": "2026-08-04T18:45:46+08:00",
+ "total": 19,
+ "high_priority": 9,
  "items": [
+  {
+   "id": "6ef9d2820490d285",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+   "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "BP利润因伊朗战争推高油价创2022年来新高",
+   "key_data": [
+    "BP利润57亿美元",
+    "创2022年以来最高",
+    "伊朗战争推高油价"
+   ],
+   "logic_chain": [
+    "伊朗战争导致油价上涨",
+    "油价上涨提升BP利润"
+   ],
+   "anchor_q": "油价上涨趋势能否持续？对能源股影响多大？",
+   "ts": "2026-08-04T18:44:14+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
+  {
+   "id": "45fc7b5aa0a13dad",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+   "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "TMTG向华尔街出售Truth Social影响力账户帖子提前访问权",
+   "key_data": [
+    "TMTG设立付费服务",
+    "提供Truth Social影响力账户帖子提前访问",
+    "目标客户为华尔街公司"
+   ],
+   "logic_chain": [
+    "TMTG寻求新收入来源",
+    "提前访问社交帖子可能影响市场公平性"
+   ],
+   "anchor_q": "该服务是否构成内幕交易？对DJT股价影响如何？",
+   "ts": "2026-08-04T18:44:14+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-04",
+   "feedback": ""
+  },
   {
    "id": "8d4f0206281b6d72",
    "module": "新闻监控",
