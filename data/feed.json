@@ -1,8 +1,28 @@
 {
- "updated": "2026-08-05T20:03:00+08:00",
- "total": 23,
+ "updated": "2026-08-05T22:57:21+08:00",
+ "total": 24,
  "high_priority": 13,
  "items": [
+  {
+   "id": "a8af401b765442ae",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "How China’s A.I. Is Surging Across Africa",
+   "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "中国AI模型因价格优势在非洲超越美国模型。",
+   "key_data": [],
+   "logic_chain": [
+    "中国AI模型免费便宜",
+    "非洲开发者选择中国模型"
+   ],
+   "anchor_q": "中国AI在非洲的扩张会否威胁美国AI公司？",
+   "ts": "2026-08-05T22:57:20+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-05",
+   "feedback": ""
+  },
   {
    "id": "aaeb479b9ebaaa2e",
    "module": "新闻监控",
