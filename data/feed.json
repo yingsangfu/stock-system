@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-05T06:36:38+08:00",
- "total": 18,
+ "updated": "2026-08-05T08:09:06+08:00",
+ "total": 19,
  "high_priority": 10,
  "items": [
+  {
+   "id": "902fb707982578fe",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants",
+   "url": "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "Chipotle因沙门氏菌污染更换墨西哥辣椒供应商。",
+   "key_data": [
+    "Chipotle主动移除墨西哥辣椒",
+    "沙门氏菌爆发",
+    "更换为其他种植者产品"
+   ],
+   "logic_chain": [
+    "沙门氏菌污染引发食品安全风险",
+    "公司主动更换供应商以控制声誉和股价影响"
+   ],
+   "anchor_q": "此次食品安全事件会否影响CMG短期股价？",
+   "ts": "2026-08-05T08:09:05+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-05",
+   "feedback": ""
+  },
   {
    "id": "bf63fa51d705faa9",
    "module": "新闻监控",
