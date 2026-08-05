@@ -1,8 +1,55 @@
 {
- "updated": "2026-08-05T22:57:21+08:00",
+ "updated": "2026-08-06T00:46:48+08:00",
  "total": 24,
- "high_priority": 13,
+ "high_priority": 14,
  "items": [
+  {
+   "id": "647bee069264e618",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen",
+   "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "美国干预日元凸显全球市场与美股联动",
+   "key_data": [
+    "美国财政部干预日元",
+    "美股市场创纪录上涨"
+   ],
+   "logic_chain": [
+    "美国干预日元稳定汇率",
+    "稳定汇率降低不确定性，推动美股上涨"
+   ],
+   "anchor_q": "日元干预如何影响你的美股持仓？",
+   "ts": "2026-08-06T00:46:47+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
+  {
+   "id": "a506c84bb4e313c5",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Four Top Google A.I. Researchers Form New Start-Up",
+   "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+   "score": 9.5,
+   "star": 3,
+   "core_conclusion": "四位Google AI核心研究员离职创立新公司Discovery Loop",
+   "key_data": [
+    "Quoc V. Le, Oriol Vinyals, Jeff Dean, Sanjay Ghemawat离开Google",
+    "新公司名为Discovery Loop",
+    "从事AI领域"
+   ],
+   "logic_chain": [
+    "Google核心AI研究员离职创业",
+    "新公司可能吸引资本，影响AI行业格局"
+   ],
+   "anchor_q": "这些AI大牛创业会瞄准哪个细分赛道？",
+   "ts": "2026-08-06T00:46:47+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
   {
    "id": "a8af401b765442ae",
    "module": "新闻监控",
@@ -510,50 +557,6 @@
    "ts": "2026-08-03T07:33:27+08:00",
    "source_type": "rss",
    "push_date": "2026-08-03",
-   "feedback": ""
-  },
-  {
-   "id": "e961536436492cfc",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "More Young College Graduates Are Living At Home. Is That a Bad Thing?",
-   "url": "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "更多大学毕业生因经济原因与父母同住",
-   "key_data": [
-    "Tommy Balmat从UC Santa Cruz毕业后搬回父母家"
-   ],
-   "logic_chain": [
-    "高房价和学生贷款压力",
-    "毕业生选择与父母同住以节省开支"
-   ],
-   "anchor_q": "这一趋势如何影响租房和购房市场需求？",
-   "ts": "2026-08-02T18:45:50+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-02",
-   "feedback": ""
-  },
-  {
-   "id": "a30b4bad14f37829",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "The Ultra-Rich Are Moving to Miami, and Want Their Money Managers There, Too",
-   "url": "https://www.nytimes.com/2026/08/02/business/family-offices-miami.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "超级富豪迁往迈阿密带动财富管理需求",
-   "key_data": [
-    "Peter Thiel在迈阿密830 Brickell tower租赁空间打破租金记录"
-   ],
-   "logic_chain": [
-    "富人寻求税收优惠和更好生活环境",
-    "财富管理公司跟随客户迁往迈阿密"
-   ],
-   "anchor_q": "迈阿密能否挑战纽约成为新的财富管理中心？",
-   "ts": "2026-08-02T18:45:50+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-02",
    "feedback": ""
   }
  ]
