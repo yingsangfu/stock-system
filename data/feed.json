@@ -1,8 +1,75 @@
 {
- "updated": "2026-08-05T17:40:23+08:00",
- "total": 20,
- "high_priority": 11,
+ "updated": "2026-08-05T20:03:00+08:00",
+ "total": 23,
+ "high_priority": 13,
  "items": [
+  {
+   "id": "aaeb479b9ebaaa2e",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The New York Times’ Revenue Rises 11%",
+   "url": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
+   "score": 9.0,
+   "star": 3,
+   "core_conclusion": "纽约时报Q2收入增11%，总订阅达1335万",
+   "key_data": [
+    "收入同比增长11%",
+    "总订阅用户1335万",
+    "截至第二季度末"
+   ],
+   "logic_chain": [
+    "数字订阅增长",
+    "推动整体收入上升"
+   ],
+   "anchor_q": "NYT订阅增长能否持续并提振股价？",
+   "ts": "2026-08-05T20:02:59+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-05",
+   "feedback": ""
+  },
+  {
+   "id": "ef61b46505fcb2c4",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Disney Theme Parks Report Strong Results, While Comcast’s Universal Parks Dip",
+   "url": "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "迪士尼主题公园游客量增3%，康卡斯特环球公园下滑",
+   "key_data": [
+    "迪士尼佛罗里达和加州公园游客量增长3%",
+    "康卡斯特环球公园业绩下滑"
+   ],
+   "logic_chain": [
+    "旅游需求复苏",
+    "迪士尼公园体验业务强劲"
+   ],
+   "anchor_q": "迪士尼公园增长能否弥补流媒体亏损？",
+   "ts": "2026-08-05T20:02:59+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-05",
+   "feedback": ""
+  },
+  {
+   "id": "d6593ed96f6d510a",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
+   "url": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "迪士尼+引入TikTok创作者视频以提升用户活跃度",
+   "key_data": [],
+   "logic_chain": [
+    "流媒体竞争加剧",
+    "迪士尼+通过短内容吸引非目标用户"
+   ],
+   "anchor_q": "此举能否提升迪士尼+用户留存和付费？",
+   "ts": "2026-08-05T20:02:59+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-05",
+   "feedback": ""
+  },
   {
    "id": "7ff67625bab14425",
    "module": "新闻监控",
