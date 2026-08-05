@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-06T00:46:48+08:00",
- "total": 24,
- "high_priority": 14,
+ "updated": "2026-08-06T02:24:25+08:00",
+ "total": 25,
+ "high_priority": 15,
  "items": [
+  {
+   "id": "0bcab0dc27ed5488",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+   "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "特朗普关税退款达1000亿美元，占关税总收入60%",
+   "key_data": [
+    "退款额1000亿美元",
+    "占关税总收入60%"
+   ],
+   "logic_chain": [
+    "政策征收关税后产生大量退款",
+    "实际有效关税率可能低于名义税率"
+   ],
+   "anchor_q": "退款规模是否预示贸易政策松动？",
+   "ts": "2026-08-06T02:24:24+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
   {
    "id": "647bee069264e618",
    "module": "新闻监控",
