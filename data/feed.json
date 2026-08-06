@@ -1,8 +1,55 @@
 {
- "updated": "2026-08-06T07:04:08+08:00",
- "total": 25,
- "high_priority": 15,
+ "updated": "2026-08-06T08:55:05+08:00",
+ "total": 27,
+ "high_priority": 16,
  "items": [
+  {
+   "id": "b7c24cad4d3dda1e",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+   "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "迪士尼授权TikTok创作者使用影视片段",
+   "key_data": [
+    "迪士尼与TikTok达成内容授权协议",
+    "允许创作者使用迪士尼影视片段"
+   ],
+   "logic_chain": [
+    "迪士尼扩大IP在短视频平台曝光",
+    "可能增加用户参与和间接收入"
+   ],
+   "anchor_q": "该协议如何影响迪士尼流媒体战略和股价？",
+   "ts": "2026-08-06T08:53:33+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
+  {
+   "id": "bf5d41df84fd182c",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "What's causing record high US beef prices?",
+   "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "美国牛肉价格因供应短缺创历史新高",
+   "key_data": [
+    "美国牛肉价格创历史新高",
+    "供应短缺是主因",
+    "产业链各环节利润未增加"
+   ],
+   "logic_chain": [
+    "供应短缺推高终端价格",
+    "但成本上升导致利润未增"
+   ],
+   "anchor_q": "牛肉价格上涨对食品类股票是利好还是利空？",
+   "ts": "2026-08-06T08:53:33+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
   {
    "id": "0bcab0dc27ed5488",
    "module": "新闻监控",
