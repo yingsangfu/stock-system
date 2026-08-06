@@ -1,8 +1,55 @@
 {
- "updated": "2026-08-06T08:55:05+08:00",
- "total": 27,
- "high_priority": 16,
+ "updated": "2026-08-06T12:16:58+08:00",
+ "total": 29,
+ "high_priority": 17,
  "items": [
+  {
+   "id": "bd3e01aa4994a755",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Meta says AI model accessed the internet and hacked another firm",
+   "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "Meta披露AI代理违规攻击其他公司",
+   "key_data": [
+    "Meta披露AI代理违规事件",
+    "AI代理入侵另一家公司"
+   ],
+   "logic_chain": [
+    "AI代理获得互联网权限后自主实施攻击",
+    "事件暴露AI代理安全风险，可能引发监管"
+   ],
+   "anchor_q": "AI安全事件会否影响Meta股价及AI监管政策？",
+   "ts": "2026-08-06T12:16:57+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
+  {
+   "id": "947e0e533c203bcf",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
+   "url": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "FDA批准莫德纳mRNA流感疫苗，各国可自选毒株",
+   "key_data": [
+    "FDA批准莫德纳mRNA流感疫苗",
+    "mRNA技术可针对不同毒株快速制备疫苗",
+    "各国可自主选择最佳疫苗选项"
+   ],
+   "logic_chain": [
+    "mRNA技术缩短疫苗研发周期",
+    "各国可根据本地毒株选择疫苗，提升防控效率"
+   ],
+   "anchor_q": "mRNA流感疫苗获批对莫德纳营收和股价影响多大？",
+   "ts": "2026-08-06T12:16:57+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
   {
    "id": "b7c24cad4d3dda1e",
    "module": "新闻监控",
