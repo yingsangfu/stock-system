@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-06T15:18:26+08:00",
- "total": 29,
- "high_priority": 17,
+ "updated": "2026-08-06T18:11:46+08:00",
+ "total": 30,
+ "high_priority": 18,
  "items": [
+  {
+   "id": "bf0c047be6ff3dd6",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Follow the Markets and Track Stocks With These Free Apps",
+   "url": "https://www.nytimes.com/2026/08/06/technology/personaltech/carry-wall-street-in-your-pocket-with-these-free-apps.html",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "苹果免费Stocks应用可一站式跟踪投资和市场",
+   "key_data": [
+    "苹果设备自带免费Stocks应用",
+    "功能包括跟踪个人投资、市场行情和财经新闻"
+   ],
+   "logic_chain": [
+    "用户需监控美股持仓",
+    "苹果Stocks应用提供免费工具"
+   ],
+   "anchor_q": "你是否已用苹果Stocks应用管理你的投资组合？",
+   "ts": "2026-08-06T18:11:09+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-06",
+   "feedback": ""
+  },
   {
    "id": "bd3e01aa4994a755",
    "module": "新闻监控",
