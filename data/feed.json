@@ -1,8 +1,30 @@
 {
- "updated": "2026-08-07T08:28:17+08:00",
- "total": 26,
+ "updated": "2026-08-07T11:31:16+08:00",
+ "total": 27,
  "high_priority": 14,
  "items": [
+  {
+   "id": "de6a41a38656c716",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Trump imposes 15% tariff on key chip material to counter China",
+   "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+   "score": 7.3,
+   "star": 2,
+   "core_conclusion": "美国对关键芯片材料征收15%关税以对抗中国竞争",
+   "key_data": [
+    "美国对关键芯片材料征收15%关税"
+   ],
+   "logic_chain": [
+    "中国芯片产业竞争加剧",
+    "美国通过关税保护本土芯片企业"
+   ],
+   "anchor_q": "该关税将如何影响美股芯片材料供应商？",
+   "ts": "2026-08-07T11:31:15+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-07",
+   "feedback": ""
+  },
   {
    "id": "c10602a46a7c247e",
    "module": "新闻监控",
