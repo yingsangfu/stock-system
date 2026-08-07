@@ -1,8 +1,55 @@
 {
- "updated": "2026-08-07T20:10:24+08:00",
- "total": 27,
- "high_priority": 14,
+ "updated": "2026-08-07T21:52:00+08:00",
+ "total": 29,
+ "high_priority": 16,
  "items": [
+  {
+   "id": "14d3a802bf10e877",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Surprise fall in US jobs last month as slow summer continues",
+   "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "美国7月就业意外减少2.3万，低于预期",
+   "key_data": [
+    "就业岗位减少23,000",
+    "分析师预期增加",
+    "7月"
+   ],
+   "logic_chain": [
+    "就业数据疲软显示经济放缓",
+    "经济放缓可能影响美联储政策"
+   ],
+   "anchor_q": "就业意外下降会改变美联储加息路径吗？",
+   "ts": "2026-08-07T21:51:59+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-07",
+   "feedback": ""
+  },
+  {
+   "id": "663c24a430937b89",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
+   "url": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "债券市场利率上升增加购房和AI成本，利好退休者",
+   "key_data": [
+    "美联储未加息",
+    "债券市场利率上升"
+   ],
+   "logic_chain": [
+    "债券市场利率上升",
+    "借贷成本增加影响房地产和科技投资"
+   ],
+   "anchor_q": "债券利率上升对科技股估值有何影响？",
+   "ts": "2026-08-07T21:51:59+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-07",
+   "feedback": ""
+  },
   {
    "id": "de6a41a38656c716",
    "module": "新闻监控",
