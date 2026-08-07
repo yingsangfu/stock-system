@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-06T22:58:10+08:00",
- "total": 30,
- "high_priority": 18,
+ "updated": "2026-08-07T08:28:17+08:00",
+ "total": 26,
+ "high_priority": 14,
  "items": [
+  {
+   "id": "c10602a46a7c247e",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Drought Threatens a Vital Economic Artery in the Heart of Europe",
+   "url": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "欧洲干旱威胁重要经济动脉，低水位暴露沉船",
+   "key_data": [
+    "低水位暴露1996年沉船",
+    "干旱威胁欧洲重要经济动脉"
+   ],
+   "logic_chain": [
+    "欧洲干旱导致河流水位下降",
+    "航运受阻威胁供应链和经济"
+   ],
+   "anchor_q": "欧洲干旱对全球供应链和大宗商品有何影响？",
+   "ts": "2026-08-07T08:28:16+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-07",
+   "feedback": ""
+  },
   {
    "id": "bf0c047be6ff3dd6",
    "module": "新闻监控",
@@ -585,118 +608,6 @@
    "ts": "2026-08-04T00:30:25+08:00",
    "source_type": "rss",
    "push_date": "2026-08-04",
-   "feedback": ""
-  },
-  {
-   "id": "84347f34e4cd14a1",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
-   "url": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "特朗普称伊朗和谈恢复，全球市场上涨",
-   "key_data": [
-    "特朗普声明伊朗和平谈判恢复",
-    "全球市场上涨"
-   ],
-   "logic_chain": [
-    "地缘政治风险缓和预期",
-    "市场风险偏好上升，全球股市上涨"
-   ],
-   "anchor_q": "伊朗和谈进展是否可持续，对油价和美股有何后续影响？",
-   "ts": "2026-08-03T21:43:44+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-03",
-   "feedback": ""
-  },
-  {
-   "id": "f5fcc180966ff876",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "What Are Companies Getting for All That A.I. Spending?",
-   "url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
-   "score": 6.5,
-   "star": 1,
-   "core_conclusion": "出现'tokenomics'新领域衡量AI投资回报",
-   "key_data": [],
-   "logic_chain": [
-    "企业大量投资AI但回报不明确",
-    "催生专门衡量AI回报的tokenomics领域"
-   ],
-   "anchor_q": "tokenomics能否成为评估AI投资的有效工具？",
-   "ts": "2026-08-03T18:47:10+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-03",
-   "feedback": ""
-  },
-  {
-   "id": "442d6699b4a8b790",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "US and Japan jointly intervene to prop up yen in rare move",
-   "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-   "score": 8.5,
-   "star": 3,
-   "core_conclusion": "美日罕见联合干预汇市以支撑日元",
-   "key_data": [
-    "美日联合干预日元",
-    "双方表示未来不排除再次联合干预"
-   ],
-   "logic_chain": [
-    "日元持续贬值压力",
-    "美日协调行动稳定汇率预期"
-   ],
-   "anchor_q": "联合干预能否逆转日元长期贬值趋势？",
-   "ts": "2026-08-03T11:23:05+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-03",
-   "feedback": ""
-  },
-  {
-   "id": "46fb5b44f9f00285",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
-   "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
-   "score": 8.4,
-   "star": 3,
-   "core_conclusion": "特朗普确认美财政部上周干预汇市稳定日元",
-   "key_data": [
-    "特朗普确认财政部干预",
-    "干预发生在上周"
-   ],
-   "logic_chain": [
-    "日元汇率波动",
-    "美国财政部干预并获总统公开确认"
-   ],
-   "anchor_q": "美国干预汇市的政策持续性如何？",
-   "ts": "2026-08-03T11:23:05+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-03",
-   "feedback": ""
-  },
-  {
-   "id": "659bfccd11b73501",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
-   "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "特朗普暂停对伊朗攻击导致油价暴跌",
-   "key_data": [
-    "特朗普周六晚宣布暂停对伊朗攻击",
-    "油价暴跌"
-   ],
-   "logic_chain": [
-    "特朗普暂停攻击降低地缘风险",
-    "油价下跌"
-   ],
-   "anchor_q": "油价下跌是否影响你的能源股持仓策略？",
-   "ts": "2026-08-03T07:33:27+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-03",
    "feedback": ""
   }
  ]
