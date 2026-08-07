@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-08T01:25:49+08:00",
- "total": 21,
+ "updated": "2026-08-08T02:23:10+08:00",
+ "total": 22,
  "high_priority": 13,
  "items": [
+  {
+   "id": "d003caa0a47cd1fd",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
+   "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "特朗普再次威胁解雇美联储理事Lisa Cook，挑战央行独立性。",
+   "key_data": [
+    "特朗普威胁解雇美联储理事Lisa Cook",
+    "Lisa Cook为现任美联储理事"
+   ],
+   "logic_chain": [
+    "特朗普试图解雇美联储理事可能削弱美联储独立性",
+    "市场担忧货币政策受政治干预"
+   ],
+   "anchor_q": "美联储独立性受损将如何影响利率路径和美股？",
+   "ts": "2026-08-08T02:23:09+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-08",
+   "feedback": ""
+  },
   {
    "id": "14d3a802bf10e877",
    "module": "新闻监控",
