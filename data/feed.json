@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-08T07:36:41+08:00",
- "total": 22,
+ "updated": "2026-08-08T09:53:06+08:00",
+ "total": 23,
  "high_priority": 13,
  "items": [
+  {
+   "id": "40d5f13e21931080",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+   "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "加拿大在贸易谈判中让步但要求全面协议",
+   "key_data": [
+    "加拿大提供让步",
+    "要求全面协议"
+   ],
+   "logic_chain": [
+    "让步可能换取美国关税减免",
+    "全面协议要求增加谈判复杂性"
+   ],
+   "anchor_q": "美加贸易协议若达成，哪些跨境电商股受益？",
+   "ts": "2026-08-08T09:53:05+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-08",
+   "feedback": ""
+  },
   {
    "id": "d003caa0a47cd1fd",
    "module": "新闻监控",
