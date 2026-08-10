@@ -1,8 +1,27 @@
 {
- "updated": "2026-08-10T22:38:35+08:00",
- "total": 9,
- "high_priority": 4,
+ "updated": "2026-08-11T00:02:46+08:00",
+ "total": 6,
+ "high_priority": 2,
  "items": [
+  {
+   "id": "ef7b706b2f1cfe6d",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
+   "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "特朗普对AI乐观，与经济学家谨慎态度形成对比。",
+   "key_data": [],
+   "logic_chain": [
+    "特朗普的AI乐观态度或预示宽松监管，利好AI行业。"
+   ],
+   "anchor_q": "特朗普的AI政策会如何影响AI监管？",
+   "ts": "2026-08-11T00:02:45+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
   {
    "id": "0485749d6ffa0d1b",
    "module": "新闻监控",
@@ -114,98 +133,6 @@
    "ts": "2026-08-08T02:23:09+08:00",
    "source_type": "rss",
    "push_date": "2026-08-08",
-   "feedback": ""
-  },
-  {
-   "id": "14d3a802bf10e877",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "Surprise fall in US jobs last month as slow summer continues",
-   "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-   "score": 8.5,
-   "star": 3,
-   "core_conclusion": "美国7月就业意外减少2.3万，低于预期",
-   "key_data": [
-    "就业岗位减少23,000",
-    "分析师预期增加",
-    "7月"
-   ],
-   "logic_chain": [
-    "就业数据疲软显示经济放缓",
-    "经济放缓可能影响美联储政策"
-   ],
-   "anchor_q": "就业意外下降会改变美联储加息路径吗？",
-   "ts": "2026-08-07T21:51:59+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-07",
-   "feedback": ""
-  },
-  {
-   "id": "663c24a430937b89",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
-   "url": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "债券市场利率上升增加购房和AI成本，利好退休者",
-   "key_data": [
-    "美联储未加息",
-    "债券市场利率上升"
-   ],
-   "logic_chain": [
-    "债券市场利率上升",
-    "借贷成本增加影响房地产和科技投资"
-   ],
-   "anchor_q": "债券利率上升对科技股估值有何影响？",
-   "ts": "2026-08-07T21:51:59+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-07",
-   "feedback": ""
-  },
-  {
-   "id": "de6a41a38656c716",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "Trump imposes 15% tariff on key chip material to counter China",
-   "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-   "score": 7.3,
-   "star": 2,
-   "core_conclusion": "美国对关键芯片材料征收15%关税以对抗中国竞争",
-   "key_data": [
-    "美国对关键芯片材料征收15%关税"
-   ],
-   "logic_chain": [
-    "中国芯片产业竞争加剧",
-    "美国通过关税保护本土芯片企业"
-   ],
-   "anchor_q": "该关税将如何影响美股芯片材料供应商？",
-   "ts": "2026-08-07T11:31:15+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-07",
-   "feedback": ""
-  },
-  {
-   "id": "c10602a46a7c247e",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Drought Threatens a Vital Economic Artery in the Heart of Europe",
-   "url": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
-   "score": 7.0,
-   "star": 2,
-   "core_conclusion": "欧洲干旱威胁重要经济动脉，低水位暴露沉船",
-   "key_data": [
-    "低水位暴露1996年沉船",
-    "干旱威胁欧洲重要经济动脉"
-   ],
-   "logic_chain": [
-    "欧洲干旱导致河流水位下降",
-    "航运受阻威胁供应链和经济"
-   ],
-   "anchor_q": "欧洲干旱对全球供应链和大宗商品有何影响？",
-   "ts": "2026-08-07T08:28:16+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-07",
    "feedback": ""
   }
  ]
