@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-11T06:41:51+08:00",
- "total": 7,
- "high_priority": 3,
+ "updated": "2026-08-11T07:39:17+08:00",
+ "total": 8,
+ "high_priority": 4,
  "items": [
+  {
+   "id": "66bc9f782233ca13",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+   "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "贝莱德CEO呼吁AI行业尽快融资，华尔街寻求巨额资金",
+   "key_data": [
+    "贝莱德CEO拉里·芬克",
+    "呼吁AI行业尽快融资",
+    "华尔街寻求额外5000亿美元"
+   ],
+   "logic_chain": [
+    "AI技术发展需巨额资本投入",
+    "华尔街机构急于抢占市场推动融资"
+   ],
+   "anchor_q": "AI基础设施融资潮是否预示相关美股将受益？",
+   "ts": "2026-08-11T07:39:16+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
   {
    "id": "cfcbfc03ba284965",
    "module": "新闻监控",
