@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-10T21:18:16+08:00",
- "total": 8,
- "high_priority": 3,
+ "updated": "2026-08-10T22:38:35+08:00",
+ "total": 9,
+ "high_priority": 4,
  "items": [
+  {
+   "id": "0485749d6ffa0d1b",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+   "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "Waymo无人驾驶出租车已扩展至15个都市区",
+   "key_data": [
+    "Waymo在旧金山及14个其他都市区运营",
+    "覆盖城市包括丹佛、拉斯维加斯、圣地亚哥、坦帕"
+   ],
+   "logic_chain": [
+    "Waymo加速商业化扩张",
+    "规模化运营有助于收集数据优化算法"
+   ],
+   "anchor_q": "Waymo扩张速度是否反映自动驾驶商业化拐点？",
+   "ts": "2026-08-10T22:38:34+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-10",
+   "feedback": ""
+  },
   {
    "id": "7e37f85dd508adfb",
    "module": "新闻监控",
