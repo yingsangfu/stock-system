@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-11T05:45:14+08:00",
- "total": 6,
- "high_priority": 2,
+ "updated": "2026-08-11T06:41:51+08:00",
+ "total": 7,
+ "high_priority": 3,
  "items": [
+  {
+   "id": "cfcbfc03ba284965",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+   "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "Nvidia获5000亿美元银行融资扩建AI数据中心",
+   "key_data": [
+    "融资额5000亿美元",
+    "用于AI数据中心建设",
+    "涉及冷却堆叠计算机芯片"
+   ],
+   "logic_chain": [
+    "大银行融资支持Nvidia扩张AI基础设施",
+    "反映AI算力需求激增"
+   ],
+   "anchor_q": "Nvidia大规模扩建数据中心是否预示AI芯片需求持续爆发？",
+   "ts": "2026-08-11T06:41:50+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
   {
    "id": "ef7b706b2f1cfe6d",
    "module": "新闻监控",
