@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-11T07:39:17+08:00",
- "total": 8,
+ "updated": "2026-08-11T10:00:32+08:00",
+ "total": 9,
  "high_priority": 4,
  "items": [
+  {
+   "id": "dfc6e1ebe7cd6c9a",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Trump Media reports $238m loss as crypto falls",
+   "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "特朗普媒体公司因加密下跌亏损2.38亿，重聚焦社交业务。",
+   "key_data": [
+    "报告亏损2.38亿美元",
+    "重新聚焦社交媒体使命"
+   ],
+   "logic_chain": [
+    "加密货币下跌直接造成公司财务损失",
+    "公司调整战略聚焦核心社交业务"
+   ],
+   "anchor_q": "DJT股价是否已充分反映加密敞口风险？",
+   "ts": "2026-08-11T10:00:31+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
   {
    "id": "66bc9f782233ca13",
    "module": "新闻监控",
