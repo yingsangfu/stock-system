@@ -1,8 +1,51 @@
 {
- "updated": "2026-08-11T19:22:24+08:00",
- "total": 9,
- "high_priority": 4,
+ "updated": "2026-08-11T20:11:41+08:00",
+ "total": 11,
+ "high_priority": 6,
  "items": [
+  {
+   "id": "c77bf875e3c76203",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The Perils of Wall St.’s Race to Pour Billions More Into A.I.",
+   "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html",
+   "score": 8.2,
+   "star": 3,
+   "core_conclusion": "华尔街急于为AI热潮融资，贝莱德CEO称紧迫",
+   "key_data": [],
+   "logic_chain": [
+    "AI投资需求旺盛，华尔街机构争相配置资金",
+    "可能推高AI资产估值，增加泡沫风险"
+   ],
+   "anchor_q": "AI投资过热是否会导致类似互联网泡沫的崩盘？",
+   "ts": "2026-08-11T20:11:40+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
+  {
+   "id": "34a380f053a965f9",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate",
+   "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
+   "score": 10.0,
+   "star": 3,
+   "core_conclusion": "美伊僵局致油价升至90美元，霍尔木兹海峡航运萎缩",
+   "key_data": [
+    "油价升至90美元/桶",
+    "霍尔木兹海峡商业航运持续减少"
+   ],
+   "logic_chain": [
+    "美伊核僵局升级导致地缘风险溢价",
+    "霍尔木兹海峡航运受阻威胁全球石油供应"
+   ],
+   "anchor_q": "油价破90美元将如何影响美联储降息预期？",
+   "ts": "2026-08-11T20:11:40+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-11",
+   "feedback": ""
+  },
   {
    "id": "dfc6e1ebe7cd6c9a",
    "module": "新闻监控",
