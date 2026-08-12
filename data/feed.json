@@ -1,8 +1,79 @@
 {
- "updated": "2026-08-12T19:51:59+08:00",
- "total": 12,
- "high_priority": 7,
+ "updated": "2026-08-12T21:19:24+08:00",
+ "total": 15,
+ "high_priority": 8,
  "items": [
+  {
+   "id": "17787f14efaf051a",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US inflation eases as food costs cool",
+   "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+   "score": 9.5,
+   "star": 3,
+   "core_conclusion": "美国7月通胀降至3.4%，食品成本放缓，住房仍高。",
+   "key_data": [
+    "美国7月年通胀率3.4%",
+    "食品成本放缓",
+    "住房价格略高"
+   ],
+   "logic_chain": [
+    "食品成本放缓导致通胀下降",
+    "通胀下降可能影响美联储政策"
+   ],
+   "anchor_q": "通胀下降是否意味着美联储将暂停加息？",
+   "ts": "2026-08-12T21:18:13+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-12",
+   "feedback": ""
+  },
+  {
+   "id": "b41db147634e0c57",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Will Paramount’s Brinkmanship Work?",
+   "url": "https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "Paramount CEO威胁撤出加州以推进收购。",
+   "key_data": [
+    "Paramount CEO David Ellison威胁撤出加州",
+    "诉讼由各州提起，旨在阻止收购Warner Bros. Discovery"
+   ],
+   "logic_chain": [
+    "诉讼阻止收购",
+    "CEO威胁撤出以施压"
+   ],
+   "anchor_q": "Paramount的威胁是否会改变你对媒体股的看法？",
+   "ts": "2026-08-12T21:18:13+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-12",
+   "feedback": ""
+  },
+  {
+   "id": "b86081f29ff2122c",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+   "url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "Thrive Holdings融资20亿，布局AI服务",
+   "key_data": [
+    "Thrive Holdings融资20亿美元",
+    "由Joshua Kushner领导的投资公司创立",
+    "专注于AI应用于传统服务业务"
+   ],
+   "logic_chain": [
+    "AI技术可提升传统服务业的效率和盈利能力",
+    "大规模融资表明资本市场对AI+服务模式的认可"
+   ],
+   "anchor_q": "Thrive Holdings的AI服务模式能否持续盈利？",
+   "ts": "2026-08-12T21:19:23+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-12",
+   "feedback": ""
+  },
   {
    "id": "949c47b56647eff7",
    "module": "新闻监控",
