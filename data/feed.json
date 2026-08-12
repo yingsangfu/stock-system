@@ -1,8 +1,30 @@
 {
- "updated": "2026-08-13T04:09:15+08:00",
- "total": 18,
+ "updated": "2026-08-13T05:21:44+08:00",
+ "total": 19,
  "high_priority": 8,
  "items": [
+  {
+   "id": "c0f458846ab3534c",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Treasury Scales Back Scrutiny of U.S. Shell Companies",
+   "url": "https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html",
+   "score": 6.3,
+   "star": 1,
+   "core_conclusion": "美国财政部缩减对空壳公司的审查，削弱反洗钱力度。",
+   "key_data": [
+    "美国财政部决定缩减对空壳公司的审查"
+   ],
+   "logic_chain": [
+    "财政部缩减审查",
+    "削弱反洗钱成效"
+   ],
+   "anchor_q": "放松空壳公司审查将如何影响金融股和合规成本？",
+   "ts": "2026-08-13T05:21:43+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "becdeff62fc922d9",
    "module": "新闻监控",
