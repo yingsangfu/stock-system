@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-12T18:35:51+08:00",
- "total": 11,
- "high_priority": 6,
+ "updated": "2026-08-12T19:51:59+08:00",
+ "total": 12,
+ "high_priority": 7,
  "items": [
+  {
+   "id": "949c47b56647eff7",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The labor market slowed as employers grew wary of hiring.",
+   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "7月招聘放缓因成本上升和关税担忧",
+   "key_data": [
+    "7月招聘滞后",
+    "春季就业激增",
+    "雇主面临成本上升和关税前景"
+   ],
+   "logic_chain": [
+    "成本上升和关税不确定性",
+    "导致雇主谨慎招聘"
+   ],
+   "anchor_q": "招聘放缓是否预示经济衰退风险？",
+   "ts": "2026-08-12T19:51:39+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-12",
+   "feedback": ""
+  },
   {
    "id": "e83507e8624e411e",
    "module": "新闻监控",
