@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-13T06:11:58+08:00",
- "total": 19,
+ "updated": "2026-08-13T07:12:27+08:00",
+ "total": 20,
  "high_priority": 8,
  "items": [
+  {
+   "id": "bb0a315af382cf9a",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Who Is Joshua Kushner, the New Lakers Co-Owner?",
+   "url": "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "Joshua Kushner成为湖人共同所有者，其VC重仓AI和健康保险",
+   "key_data": [
+    "Joshua Kushner是Jared Kushner的兄弟",
+    "他成为洛杉矶湖人队共同所有者",
+    "其风险投资重点在AI和健康保险"
+   ],
+   "logic_chain": [
+    "Kushner家族背景及VC成功",
+    "收购湖人股份并继续投资AI"
+   ],
+   "anchor_q": "他的AI投资会否影响湖人队运营？",
+   "ts": "2026-08-13T07:12:26+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "c0f458846ab3534c",
    "module": "新闻监控",
