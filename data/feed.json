@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-13T01:31:21+08:00",
- "total": 17,
+ "updated": "2026-08-13T03:05:56+08:00",
+ "total": 18,
  "high_priority": 8,
  "items": [
+  {
+   "id": "becdeff62fc922d9",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.",
+   "url": "https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "Kalshi提交32起内部交易线索，多数或免于起诉。",
+   "key_data": [
+    "Kalshi向CFTC提交32起可能内部交易",
+    "时间范围为截至6月的三个月"
+   ],
+   "logic_chain": [
+    "预测市场存在内部交易风险，因事件结果可提前知晓",
+    "监管机构可能因资源或权限不足而不起诉多数案件"
+   ],
+   "anchor_q": "预测市场内部交易不起诉，会否蔓延至股市？",
+   "ts": "2026-08-13T03:05:55+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "cbdffa24e20e8196",
    "module": "新闻监控",
