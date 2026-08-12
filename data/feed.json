@@ -1,8 +1,55 @@
 {
- "updated": "2026-08-13T00:02:41+08:00",
- "total": 15,
+ "updated": "2026-08-13T01:31:21+08:00",
+ "total": 17,
  "high_priority": 8,
  "items": [
+  {
+   "id": "cbdffa24e20e8196",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Trump sued over Truth Social's $100,000 early access service",
+   "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+   "score": 7.8,
+   "star": 2,
+   "core_conclusion": "特朗普因Truth Social高价提前访问服务被起诉，或影响DJT股价",
+   "key_data": [
+    "Truth Social计划以10万美元出售提前访问特朗普帖子服务",
+    "该计划正面临诉讼挑战"
+   ],
+   "logic_chain": [
+    "特朗普帖子常引发市场波动，提前访问可能构成内幕交易",
+    "诉讼带来监管风险，可能影响Truth Social母公司股价"
+   ],
+   "anchor_q": "该诉讼是否会导致DJT股价大幅波动？",
+   "ts": "2026-08-13T01:31:20+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
+  {
+   "id": "e87cfc3506b867c8",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Ted Decker, CEO of Home Depot, Is Taking Medical Leave",
+   "url": "https://www.nytimes.com/2026/08/12/business/home-depot-ceo.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "家得宝CEO泰德·德克尔因医疗原因休假，或引发领导层不确定性",
+   "key_data": [
+    "泰德·德克尔2000年加入家得宝",
+    "2022年任CEO",
+    "现因医疗原因休假"
+   ],
+   "logic_chain": [
+    "CEO突然休假可能引发投资者对公司运营稳定的担忧",
+    "可能导致家得宝股价短期波动"
+   ],
+   "anchor_q": "家得宝CEO休假是否会影响公司短期业绩？",
+   "ts": "2026-08-13T01:31:20+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "17787f14efaf051a",
    "module": "新闻监控",
