@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-13T23:07:48+08:00",
- "total": 23,
- "high_priority": 8,
+ "updated": "2026-08-14T00:26:11+08:00",
+ "total": 20,
+ "high_priority": 6,
  "items": [
   {
    "id": "6867cfd168918920",
@@ -459,73 +459,6 @@
    "ts": "2026-08-11T00:02:45+08:00",
    "source_type": "rss",
    "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "0485749d6ffa0d1b",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
-   "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "Waymo无人驾驶出租车已扩展至15个都市区",
-   "key_data": [
-    "Waymo在旧金山及14个其他都市区运营",
-    "覆盖城市包括丹佛、拉斯维加斯、圣地亚哥、坦帕"
-   ],
-   "logic_chain": [
-    "Waymo加速商业化扩张",
-    "规模化运营有助于收集数据优化算法"
-   ],
-   "anchor_q": "Waymo扩张速度是否反映自动驾驶商业化拐点？",
-   "ts": "2026-08-10T22:38:34+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-10",
-   "feedback": ""
-  },
-  {
-   "id": "7e37f85dd508adfb",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Private Equity Is Stuck With 33,575 Unsold Businesses",
-   "url": "https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "私募股权积压3.3万家未售企业，Apollo PE业绩疲弱",
-   "key_data": [
-    "33,575 unsold businesses",
-    "Apollo Global Management",
-    "weak quarterly results in PE division"
-   ],
-   "logic_chain": [
-    "高利率导致PE退出困难，积压企业创纪录",
-    "Apollo业绩反映行业压力，可能影响股价"
-   ],
-   "anchor_q": "PE退出积压如何影响上市PE公司估值？",
-   "ts": "2026-08-10T17:27:43+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-10",
-   "feedback": ""
-  },
-  {
-   "id": "a56c9619eed9f48b",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Can A.I. Get You Where You Want to Go for Less?",
-   "url": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "新AI服务监控航班酒店价格以寻找更低价格",
-   "key_data": [],
-   "logic_chain": [
-    "AI降低价格信息不对称",
-    "消费者可获更优价格，冲击传统预订渠道"
-   ],
-   "anchor_q": "AI比价工具能否颠覆现有OTA平台？",
-   "ts": "2026-08-10T17:27:43+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-10",
    "feedback": ""
   }
  ]
