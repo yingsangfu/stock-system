@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-13T19:22:11+08:00",
- "total": 21,
+ "updated": "2026-08-13T20:11:40+08:00",
+ "total": 22,
  "high_priority": 8,
  "items": [
+  {
+   "id": "7f4b3fecc18221fe",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Inside the $12.5 Billion Deal for the Lakers",
+   "url": "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "Josh Kushner和Bob Iger拟以125亿美元收购洛杉矶湖人队",
+   "key_data": [
+    "125亿美元交易",
+    "Josh Kushner和Bob Iger",
+    "洛杉矶湖人队"
+   ],
+   "logic_chain": [
+    "顶级体育特许经营权稀缺",
+    "大资本寻求稳定资产"
+   ],
+   "anchor_q": "体育特许经营权高估值是否反映资产泡沫？",
+   "ts": "2026-08-13T20:11:39+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "35d4af9572ab608a",
    "module": "新闻监控",
