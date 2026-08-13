@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-13T08:08:12+08:00",
- "total": 20,
+ "updated": "2026-08-13T11:09:21+08:00",
+ "total": 21,
  "high_priority": 8,
  "items": [
+  {
+   "id": "35d4af9572ab608a",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
+   "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "Twitch允许用户退出AI训练，但行业已普遍使用用户数据。",
+   "key_data": [
+    "Twitch高管称用户可opt out AI训练",
+    "使用用户内容训练AI已成行业惯例"
+   ],
+   "logic_chain": [
+    "用户数据被用于AI训练引发隐私担忧",
+    "平台提供opt-out选项以缓解舆论压力"
+   ],
+   "anchor_q": "用户opt-out会否影响亚马逊AI训练数据质量？",
+   "ts": "2026-08-13T11:09:20+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-13",
+   "feedback": ""
+  },
   {
    "id": "bb0a315af382cf9a",
    "module": "新闻监控",
