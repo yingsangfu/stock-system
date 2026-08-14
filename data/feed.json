@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-14T21:15:46+08:00",
- "total": 23,
+ "updated": "2026-08-14T22:32:12+08:00",
+ "total": 24,
  "high_priority": 6,
  "items": [
+  {
+   "id": "7af1f860591bd0e1",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+   "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+   "score": 7.6,
+   "star": 2,
+   "core_conclusion": "英国政府考虑将2030年电动车销售目标从80%下调至50%。",
+   "key_data": [
+    "当前目标: 80%",
+    "拟下调至: 50%",
+    "目标年份: 2030"
+   ],
+   "logic_chain": [
+    "汽车制造商施压",
+    "政府考虑放松电动车销售强制目标"
+   ],
+   "anchor_q": "政策放松是否预示电动车需求增长放缓？",
+   "ts": "2026-08-14T22:32:11+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
   {
    "id": "2433c920eff78acb",
    "module": "新闻监控",
