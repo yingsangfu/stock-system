@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-15T00:58:23+08:00",
- "total": 19,
+ "updated": "2026-08-15T01:58:57+08:00",
+ "total": 20,
  "high_priority": 4,
  "items": [
+  {
+   "id": "85ec68fc780c88ab",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
+   "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "联合健康等保险公司高管在国会听证会辩护，公众愤怒未平息。",
+   "key_data": [
+    "联合健康CEO Stephen Hemsley等高管在1月国会听证会为保险业做法辩护",
+    "Brian Thompson被杀后公众对保险公司的愤怒持续"
+   ],
+   "logic_chain": [
+    "Brian Thompson被杀引发公众对保险业不满",
+    "国会听证会审查保险业做法，高管辩护但愤怒持续"
+   ],
+   "anchor_q": "保险业监管风险会否影响联合健康等公司股价？",
+   "ts": "2026-08-15T01:58:56+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-15",
+   "feedback": ""
+  },
   {
    "id": "4440d81d049784ca",
    "module": "新闻监控",
