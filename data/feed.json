@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-15T01:58:57+08:00",
- "total": 20,
- "high_priority": 4,
+ "updated": "2026-08-15T03:06:03+08:00",
+ "total": 21,
+ "high_priority": 5,
  "items": [
+  {
+   "id": "b7f5c01eb1498226",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+   "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "Google Classroom新增Gemini AI标签页，提供学习辅助和内容生成功能",
+   "key_data": [
+    "本周开始，Classroom新增Gemini标签页",
+    "学生可获取AI帮助解决数学和写作问题",
+    "可生成学习指南、测验、闪卡和图像"
+   ],
+   "logic_chain": [
+    "Google将Gemini整合进教育产品，增强Classroom竞争力",
+    "可能推动教育AI订阅增长，影响教育科技市场"
+   ],
+   "anchor_q": "Google教育AI能否挑战Chegg等传统教育平台？",
+   "ts": "2026-08-15T03:06:02+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-15",
+   "feedback": ""
+  },
   {
    "id": "85ec68fc780c88ab",
    "module": "新闻监控",
