@@ -1,8 +1,30 @@
 {
- "updated": "2026-08-14T11:08:22+08:00",
- "total": 21,
+ "updated": "2026-08-14T13:15:36+08:00",
+ "total": 22,
  "high_priority": 6,
  "items": [
+  {
+   "id": "1eeb261bdc115f6e",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US says dozens of countries helped China dodge Trump's tariffs",
+   "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "美国报告称多国助中国规避关税，或加剧贸易紧张。",
+   "key_data": [
+    "美国发布报告称中国通过低关税国家转运货物规避高关税"
+   ],
+   "logic_chain": [
+    "中国为规避美国高关税，通过第三国转运货物",
+    "美国可能因此对转运国加征关税，影响全球供应链"
+   ],
+   "anchor_q": "若美国对转运国加征关税，哪些行业将受冲击？",
+   "ts": "2026-08-14T13:15:35+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
   {
    "id": "5fef91dc547b0836",
    "module": "新闻监控",
