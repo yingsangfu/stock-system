@@ -1,8 +1,30 @@
 {
- "updated": "2026-08-14T19:53:24+08:00",
- "total": 22,
+ "updated": "2026-08-14T21:15:46+08:00",
+ "total": 23,
  "high_priority": 6,
  "items": [
+  {
+   "id": "2433c920eff78acb",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+   "url": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "标普500有望连续四年上涨，但风险上升，华尔街仍加码。",
+   "key_data": [
+    "标普500有望实现连续第四年年度上涨"
+   ],
+   "logic_chain": [
+    "市场连续上涨积累风险",
+    "华尔街忽视风险继续加仓"
+   ],
+   "anchor_q": "连续四年上涨后，回调风险是否被低估？",
+   "ts": "2026-08-14T21:15:45+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
   {
    "id": "1eeb261bdc115f6e",
    "module": "新闻监控",
