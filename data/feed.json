@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-14T08:08:11+08:00",
- "total": 20,
+ "updated": "2026-08-14T11:08:22+08:00",
+ "total": 21,
  "high_priority": 6,
  "items": [
+  {
+   "id": "5fef91dc547b0836",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Kalshi Ordered to Cease Most Operations in Washington State",
+   "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "华盛顿州命令Kalshi停止大部分业务，预测市场遇监管挑战。",
+   "key_data": [
+    "华盛顿州命令Kalshi停止大部分业务",
+    "Kalshi和Polymarket是预测市场平台"
+   ],
+   "logic_chain": [
+    "预测市场快速增长引发监管关注",
+    "州监管机构以非法赌博为由限制运营"
+   ],
+   "anchor_q": "Kalshi受限是否预示美国预测市场将全面遭禁？",
+   "ts": "2026-08-14T11:08:21+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
   {
    "id": "6867cfd168918920",
    "module": "新闻监控",
