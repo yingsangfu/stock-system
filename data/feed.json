@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-14T23:56:20+08:00",
- "total": 26,
- "high_priority": 7,
+ "updated": "2026-08-15T00:58:23+08:00",
+ "total": 19,
+ "high_priority": 4,
  "items": [
+  {
+   "id": "4440d81d049784ca",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "July Retail Sales Notch Biggest Drop in Over a Year",
+   "url": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
+   "score": 8.5,
+   "star": 3,
+   "core_conclusion": "美国7月零售销售环比降幅创一年多新高，通胀压力持续。",
+   "key_data": [
+    "7月零售销售环比下降",
+    "降幅为一年多来最大",
+    "消费者受通胀和住房成本上升影响"
+   ],
+   "logic_chain": [
+    "通胀和住房成本上升削弱购买力",
+    "购买力下降导致零售支出减少"
+   ],
+   "anchor_q": "零售销售下滑是否预示消费股盈利承压？",
+   "ts": "2026-08-15T00:58:22+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-15",
+   "feedback": ""
+  },
   {
    "id": "7edabf24d2ece921",
    "module": "新闻监控",
@@ -419,183 +443,6 @@
    "ts": "2026-08-12T19:51:39+08:00",
    "source_type": "rss",
    "push_date": "2026-08-12",
-   "feedback": ""
-  },
-  {
-   "id": "e83507e8624e411e",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "G.M.’s ‘Car Guy’ Talks Electrics, China and Nepotism",
-   "url": "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "通用汽车总裁称未停产电动汽车并相信可持续性",
-   "key_data": [
-    "通用汽车总裁Mark Reuss表示未停止生产任何电动汽车"
-   ],
-   "logic_chain": [
-    "市场担忧通用汽车电动汽车计划",
-    "总裁出面澄清以稳定信心"
-   ],
-   "anchor_q": "该声明能否打消市场对通用汽车电动化转型的疑虑？",
-   "ts": "2026-08-11T23:04:51+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "4c9aafb271c05abb",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Robots That Walk and Talk Are Coming to Car Factories",
-   "url": "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html",
-   "score": 7.0,
-   "star": 2,
-   "core_conclusion": "人形机器人进入汽车工厂但灵巧性不足",
-   "key_data": [
-    "BMW工厂部署人形机器人"
-   ],
-   "logic_chain": [
-    "汽车工厂寻求自动化以降低成本",
-    "人形机器人手部灵巧性是技术瓶颈"
-   ],
-   "anchor_q": "人形机器人何时能大规模替代汽车工人？",
-   "ts": "2026-08-11T21:57:07+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "c77bf875e3c76203",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "The Perils of Wall St.’s Race to Pour Billions More Into A.I.",
-   "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html",
-   "score": 8.2,
-   "star": 3,
-   "core_conclusion": "华尔街急于为AI热潮融资，贝莱德CEO称紧迫",
-   "key_data": [],
-   "logic_chain": [
-    "AI投资需求旺盛，华尔街机构争相配置资金",
-    "可能推高AI资产估值，增加泡沫风险"
-   ],
-   "anchor_q": "AI投资过热是否会导致类似互联网泡沫的崩盘？",
-   "ts": "2026-08-11T20:11:40+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "34a380f053a965f9",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate",
-   "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-   "score": 10.0,
-   "star": 3,
-   "core_conclusion": "美伊僵局致油价升至90美元，霍尔木兹海峡航运萎缩",
-   "key_data": [
-    "油价升至90美元/桶",
-    "霍尔木兹海峡商业航运持续减少"
-   ],
-   "logic_chain": [
-    "美伊核僵局升级导致地缘风险溢价",
-    "霍尔木兹海峡航运受阻威胁全球石油供应"
-   ],
-   "anchor_q": "油价破90美元将如何影响美联储降息预期？",
-   "ts": "2026-08-11T20:11:40+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "dfc6e1ebe7cd6c9a",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "Trump Media reports $238m loss as crypto falls",
-   "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-   "score": 7.0,
-   "star": 2,
-   "core_conclusion": "特朗普媒体公司因加密下跌亏损2.38亿，重聚焦社交业务。",
-   "key_data": [
-    "报告亏损2.38亿美元",
-    "重新聚焦社交媒体使命"
-   ],
-   "logic_chain": [
-    "加密货币下跌直接造成公司财务损失",
-    "公司调整战略聚焦核心社交业务"
-   ],
-   "anchor_q": "DJT股价是否已充分反映加密敞口风险？",
-   "ts": "2026-08-11T10:00:31+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "66bc9f782233ca13",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
-   "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "贝莱德CEO呼吁AI行业尽快融资，华尔街寻求巨额资金",
-   "key_data": [
-    "贝莱德CEO拉里·芬克",
-    "呼吁AI行业尽快融资",
-    "华尔街寻求额外5000亿美元"
-   ],
-   "logic_chain": [
-    "AI技术发展需巨额资本投入",
-    "华尔街机构急于抢占市场推动融资"
-   ],
-   "anchor_q": "AI基础设施融资潮是否预示相关美股将受益？",
-   "ts": "2026-08-11T07:39:16+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "cfcbfc03ba284965",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "Nvidia gets $500bn from major banks to develop AI data centres",
-   "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-   "score": 8.5,
-   "star": 3,
-   "core_conclusion": "Nvidia获5000亿美元银行融资扩建AI数据中心",
-   "key_data": [
-    "融资额5000亿美元",
-    "用于AI数据中心建设",
-    "涉及冷却堆叠计算机芯片"
-   ],
-   "logic_chain": [
-    "大银行融资支持Nvidia扩张AI基础设施",
-    "反映AI算力需求激增"
-   ],
-   "anchor_q": "Nvidia大规模扩建数据中心是否预示AI芯片需求持续爆发？",
-   "ts": "2026-08-11T06:41:50+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
-   "feedback": ""
-  },
-  {
-   "id": "ef7b706b2f1cfe6d",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
-   "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-   "score": 6.5,
-   "star": 1,
-   "core_conclusion": "特朗普对AI乐观，与经济学家谨慎态度形成对比。",
-   "key_data": [],
-   "logic_chain": [
-    "特朗普的AI乐观态度或预示宽松监管，利好AI行业。"
-   ],
-   "anchor_q": "特朗普的AI政策会如何影响AI监管？",
-   "ts": "2026-08-11T00:02:45+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-11",
    "feedback": ""
   }
  ]
