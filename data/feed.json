@@ -1,8 +1,54 @@
 {
- "updated": "2026-08-14T22:32:12+08:00",
- "total": 24,
- "high_priority": 6,
+ "updated": "2026-08-14T23:56:20+08:00",
+ "total": 26,
+ "high_priority": 7,
  "items": [
+  {
+   "id": "7edabf24d2ece921",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
+   "url": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "Alphabet和Google的AI投资贡献额外利润",
+   "key_data": [
+    "Alphabet和Google从AI公司投资中获益",
+    "AI投资价值上升带来额外利润"
+   ],
+   "logic_chain": [
+    "AI热潮推高AI公司估值",
+    "Alphabet和Google的投资收益增加，贡献利润"
+   ],
+   "anchor_q": "AI投资利润的可持续性如何影响科技巨头估值？",
+   "ts": "2026-08-14T23:56:19+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
+  {
+   "id": "c354d8784d47d1b4",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Why Japan Is Struggling to Stop the Yen’s Decline",
+   "url": "https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "日元反弹消退，逼近160关口考验美日官方干预决心",
+   "key_data": [
+    "日元兑美元接近160",
+    "日元反弹消退"
+   ],
+   "logic_chain": [
+    "美日利差维持，日元反弹消退",
+    "汇率逼近160，考验官方干预决心"
+   ],
+   "anchor_q": "日元若跌破160，日本央行将如何应对？",
+   "ts": "2026-08-14T23:56:19+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-14",
+   "feedback": ""
+  },
   {
    "id": "7af1f860591bd0e1",
    "module": "新闻监控",
