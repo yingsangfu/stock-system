@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-15T23:47:33+08:00",
- "total": 22,
- "high_priority": 5,
+ "updated": "2026-08-16T00:28:27+08:00",
+ "total": 18,
+ "high_priority": 3,
  "items": [
   {
    "id": "ec56e5c62f471644",
@@ -418,101 +418,6 @@
    "ts": "2026-08-13T01:31:20+08:00",
    "source_type": "rss",
    "push_date": "2026-08-13",
-   "feedback": ""
-  },
-  {
-   "id": "17787f14efaf051a",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "US inflation eases as food costs cool",
-   "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-   "score": 9.5,
-   "star": 3,
-   "core_conclusion": "美国7月通胀降至3.4%，食品成本放缓，住房仍高。",
-   "key_data": [
-    "美国7月年通胀率3.4%",
-    "食品成本放缓",
-    "住房价格略高"
-   ],
-   "logic_chain": [
-    "食品成本放缓导致通胀下降",
-    "通胀下降可能影响美联储政策"
-   ],
-   "anchor_q": "通胀下降是否意味着美联储将暂停加息？",
-   "ts": "2026-08-12T21:18:13+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-12",
-   "feedback": ""
-  },
-  {
-   "id": "b41db147634e0c57",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Will Paramount’s Brinkmanship Work?",
-   "url": "https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html",
-   "score": 7.5,
-   "star": 2,
-   "core_conclusion": "Paramount CEO威胁撤出加州以推进收购。",
-   "key_data": [
-    "Paramount CEO David Ellison威胁撤出加州",
-    "诉讼由各州提起，旨在阻止收购Warner Bros. Discovery"
-   ],
-   "logic_chain": [
-    "诉讼阻止收购",
-    "CEO威胁撤出以施压"
-   ],
-   "anchor_q": "Paramount的威胁是否会改变你对媒体股的看法？",
-   "ts": "2026-08-12T21:18:13+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-12",
-   "feedback": ""
-  },
-  {
-   "id": "b86081f29ff2122c",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
-   "url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-   "score": 7.0,
-   "star": 2,
-   "core_conclusion": "Thrive Holdings融资20亿，布局AI服务",
-   "key_data": [
-    "Thrive Holdings融资20亿美元",
-    "由Joshua Kushner领导的投资公司创立",
-    "专注于AI应用于传统服务业务"
-   ],
-   "logic_chain": [
-    "AI技术可提升传统服务业的效率和盈利能力",
-    "大规模融资表明资本市场对AI+服务模式的认可"
-   ],
-   "anchor_q": "Thrive Holdings的AI服务模式能否持续盈利？",
-   "ts": "2026-08-12T21:19:23+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-12",
-   "feedback": ""
-  },
-  {
-   "id": "949c47b56647eff7",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "The labor market slowed as employers grew wary of hiring.",
-   "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "7月招聘放缓因成本上升和关税担忧",
-   "key_data": [
-    "7月招聘滞后",
-    "春季就业激增",
-    "雇主面临成本上升和关税前景"
-   ],
-   "logic_chain": [
-    "成本上升和关税不确定性",
-    "导致雇主谨慎招聘"
-   ],
-   "anchor_q": "招聘放缓是否预示经济衰退风险？",
-   "ts": "2026-08-12T19:51:39+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-12",
    "feedback": ""
   }
  ]
