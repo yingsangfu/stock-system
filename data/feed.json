@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-15T19:46:28+08:00",
- "total": 21,
+ "updated": "2026-08-15T20:43:48+08:00",
+ "total": 22,
  "high_priority": 5,
  "items": [
+  {
+   "id": "ec56e5c62f471644",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+   "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "科技巨头竞相将可穿戴设备数据整合进医疗系统，拓展健康服务。",
+   "key_data": [
+    "Google, Apple, Samsung, Oura等公司参与竞争",
+    "目标是将可穿戴设备数据整合进医疗系统"
+   ],
+   "logic_chain": [
+    "可穿戴设备数据整合进医疗系统可提升设备价值",
+    "科技巨头争夺医疗数据入口以增强生态粘性"
+   ],
+   "anchor_q": "可穿戴设备医疗数据整合会如何影响相关公司估值？",
+   "ts": "2026-08-15T20:43:47+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-15",
+   "feedback": ""
+  },
   {
    "id": "b7f5c01eb1498226",
    "module": "新闻监控",
