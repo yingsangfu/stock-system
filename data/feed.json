@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-17T19:33:54+08:00",
- "total": 15,
+ "updated": "2026-08-17T20:52:07+08:00",
+ "total": 16,
  "high_priority": 5,
  "items": [
+  {
+   "id": "f4892ca535b0e33f",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
+   "url": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "Mark Cuban担忧加州财富税将抑制初创文化",
+   "key_data": [
+    "Mark Cuban expressed concerns about California wealth tax proposal",
+    "Wealth tax could chill start-up culture"
+   ],
+   "logic_chain": [
+    "财富税增加高净值个人税负",
+    "导致风险投资和创业活动减少"
+   ],
+   "anchor_q": "加州财富税若通过，哪些科技股将受影响？",
+   "ts": "2026-08-17T20:52:06+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-17",
+   "feedback": ""
+  },
   {
    "id": "5758c94eb0d3415f",
    "module": "新闻监控",
