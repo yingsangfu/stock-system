@@ -1,8 +1,31 @@
 {
- "updated": "2026-08-18T01:29:30+08:00",
- "total": 10,
- "high_priority": 4,
+ "updated": "2026-08-18T01:58:54+08:00",
+ "total": 11,
+ "high_priority": 5,
  "items": [
+  {
+   "id": "2baba2fbeed7b100",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
+   "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
+   "score": 8.0,
+   "star": 3,
+   "core_conclusion": "美国BNPL贷款去年达1600亿美元，两年翻倍，渗透必需品支出。",
+   "key_data": [
+    "去年美国人通过BNPL花费1600亿美元",
+    "该金额几乎是两年前的两倍"
+   ],
+   "logic_chain": [
+    "BNPL交易额快速增长并扩展至必需品，表明消费者信贷依赖加深",
+    "信贷依赖加深可能增加违约风险，影响BNPL服务商盈利和股价"
+   ],
+   "anchor_q": "BNPL增长对Affirm等股票是利好还是风险？",
+   "ts": "2026-08-18T01:58:53+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-18",
+   "feedback": ""
+  },
   {
    "id": "f4892ca535b0e33f",
    "module": "新闻监控",
