@@ -1,8 +1,54 @@
 {
- "updated": "2026-08-17T16:08:03+08:00",
- "total": 13,
+ "updated": "2026-08-17T17:11:04+08:00",
+ "total": 15,
  "high_priority": 5,
  "items": [
+  {
+   "id": "5758c94eb0d3415f",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+   "url": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+   "score": 7.5,
+   "star": 2,
+   "core_conclusion": "印度UPI可能开始征收商户费用，引发支付生态争议",
+   "key_data": [
+    "印度UPI是全球最大数字支付系统之一",
+    "UPI目前对用户免费"
+   ],
+   "logic_chain": [
+    "UPI免费模式导致收入压力",
+    "引入商户费用可能改变用户行为"
+   ],
+   "anchor_q": "如果UPI收费，是否会影响印度数字支付的增长势头？",
+   "ts": "2026-08-17T17:11:03+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-17",
+   "feedback": ""
+  },
+  {
+   "id": "e470694833e0a188",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
+   "url": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
+   "score": 6.5,
+   "star": 1,
+   "core_conclusion": "法国初创Inbolt的3D视觉相机用于Stellantis工厂机器人",
+   "key_data": [
+    "Inbolt是法国初创公司",
+    "其相机用于Stellantis底特律工厂的机器人手臂"
+   ],
+   "logic_chain": [
+    "机器人视觉提升制造精度",
+    "Stellantis采用表明工业需求"
+   ],
+   "anchor_q": "Inbolt的机器人视觉技术能否在工业自动化中大规模推广？",
+   "ts": "2026-08-17T17:11:03+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-17",
+   "feedback": ""
+  },
   {
    "id": "e1dd421e03ecb226",
    "module": "新闻监控",
