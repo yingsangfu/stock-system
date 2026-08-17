@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-17T09:27:24+08:00",
- "total": 11,
- "high_priority": 4,
+ "updated": "2026-08-17T10:45:46+08:00",
+ "total": 12,
+ "high_priority": 5,
  "items": [
+  {
+   "id": "0d232b368cf0dec8",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+   "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+   "score": 8.2,
+   "star": 3,
+   "core_conclusion": "Meta因青少年保护问题被30州起诉，败诉或迫使平台大改",
+   "key_data": [
+    "30个美国州起诉Meta",
+    "要求改革平台以保护年轻用户",
+    "涉及Instagram和Facebook"
+   ],
+   "logic_chain": [
+    "30州指控Meta平台对青少年有害",
+    "诉讼若成功将强制Meta改变产品设计，可能影响用户增长和广告收入"
+   ],
+   "anchor_q": "Meta诉讼结果会如何影响其广告收入和用户粘性？",
+   "ts": "2026-08-17T10:45:45+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-17",
+   "feedback": ""
+  },
   {
    "id": "5bd48dc65fc09161",
    "module": "新闻监控",
