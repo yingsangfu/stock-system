@@ -1,8 +1,28 @@
 {
- "updated": "2026-08-17T11:53:14+08:00",
- "total": 12,
+ "updated": "2026-08-17T12:47:17+08:00",
+ "total": 13,
  "high_priority": 5,
  "items": [
+  {
+   "id": "e1dd421e03ecb226",
+   "module": "新闻监控",
+   "source": "NYT > Business",
+   "title": "As China Hunts for Scientific Talent, the US Makes It Easier",
+   "url": "https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "美国限制与中国资金正改变全球科技人才流动平衡。",
+   "key_data": [],
+   "logic_chain": [
+    "美国移民限制减少人才留美",
+    "中国资金吸引人才回流，增强科技实力"
+   ],
+   "anchor_q": "美国科技股是否因人才流失面临长期风险？",
+   "ts": "2026-08-17T12:47:16+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-17",
+   "feedback": ""
+  },
   {
    "id": "0d232b368cf0dec8",
    "module": "新闻监控",
