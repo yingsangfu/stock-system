@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-18T23:35:09+08:00",
- "total": 13,
- "high_priority": 5,
+ "updated": "2026-08-19T00:35:34+08:00",
+ "total": 9,
+ "high_priority": 3,
  "items": [
   {
    "id": "765dfa08fa5b0615",
@@ -199,100 +199,6 @@
    "ts": "2026-08-16T17:31:10+08:00",
    "source_type": "rss",
    "push_date": "2026-08-16",
-   "feedback": ""
-  },
-  {
-   "id": "ec56e5c62f471644",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-   "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html",
-   "score": 7.5,
-   "star": 2,
-   "core_conclusion": "科技巨头竞相将可穿戴设备数据整合进医疗系统，拓展健康服务。",
-   "key_data": [
-    "Google, Apple, Samsung, Oura等公司参与竞争",
-    "目标是将可穿戴设备数据整合进医疗系统"
-   ],
-   "logic_chain": [
-    "可穿戴设备数据整合进医疗系统可提升设备价值",
-    "科技巨头争夺医疗数据入口以增强生态粘性"
-   ],
-   "anchor_q": "可穿戴设备医疗数据整合会如何影响相关公司估值？",
-   "ts": "2026-08-15T20:43:47+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-15",
-   "feedback": ""
-  },
-  {
-   "id": "b7f5c01eb1498226",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-   "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "Google Classroom新增Gemini AI标签页，提供学习辅助和内容生成功能",
-   "key_data": [
-    "本周开始，Classroom新增Gemini标签页",
-    "学生可获取AI帮助解决数学和写作问题",
-    "可生成学习指南、测验、闪卡和图像"
-   ],
-   "logic_chain": [
-    "Google将Gemini整合进教育产品，增强Classroom竞争力",
-    "可能推动教育AI订阅增长，影响教育科技市场"
-   ],
-   "anchor_q": "Google教育AI能否挑战Chegg等传统教育平台？",
-   "ts": "2026-08-15T03:06:02+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-15",
-   "feedback": ""
-  },
-  {
-   "id": "85ec68fc780c88ab",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-   "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "联合健康等保险公司高管在国会听证会辩护，公众愤怒未平息。",
-   "key_data": [
-    "联合健康CEO Stephen Hemsley等高管在1月国会听证会为保险业做法辩护",
-    "Brian Thompson被杀后公众对保险公司的愤怒持续"
-   ],
-   "logic_chain": [
-    "Brian Thompson被杀引发公众对保险业不满",
-    "国会听证会审查保险业做法，高管辩护但愤怒持续"
-   ],
-   "anchor_q": "保险业监管风险会否影响联合健康等公司股价？",
-   "ts": "2026-08-15T01:58:56+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-15",
-   "feedback": ""
-  },
-  {
-   "id": "4440d81d049784ca",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "July Retail Sales Notch Biggest Drop in Over a Year",
-   "url": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
-   "score": 8.5,
-   "star": 3,
-   "core_conclusion": "美国7月零售销售环比降幅创一年多新高，通胀压力持续。",
-   "key_data": [
-    "7月零售销售环比下降",
-    "降幅为一年多来最大",
-    "消费者受通胀和住房成本上升影响"
-   ],
-   "logic_chain": [
-    "通胀和住房成本上升削弱购买力",
-    "购买力下降导致零售支出减少"
-   ],
-   "anchor_q": "零售销售下滑是否预示消费股盈利承压？",
-   "ts": "2026-08-15T00:58:22+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-15",
    "feedback": ""
   }
  ]
