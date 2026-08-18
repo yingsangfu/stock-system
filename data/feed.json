@@ -1,8 +1,30 @@
 {
- "updated": "2026-08-18T13:33:33+08:00",
- "total": 12,
+ "updated": "2026-08-18T14:51:07+08:00",
+ "total": 13,
  "high_priority": 5,
  "items": [
+  {
+   "id": "765dfa08fa5b0615",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
+   "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
+   "score": 6.0,
+   "star": 1,
+   "core_conclusion": "英改革党拟削500亿镑福利，BBC析可行性",
+   "key_data": [
+    "改革党提出削减500亿英镑福利支出计划"
+   ],
+   "logic_chain": [
+    "改革党提出大规模福利削减计划",
+    "若实施将影响财政赤字与经济增长"
+   ],
+   "anchor_q": "大规模福利削减能否通过议会并影响英国经济？",
+   "ts": "2026-08-18T14:51:06+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-18",
+   "feedback": ""
+  },
   {
    "id": "acc51424492e77a0",
    "module": "新闻监控",
