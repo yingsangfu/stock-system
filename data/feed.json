@@ -1,8 +1,28 @@
 {
- "updated": "2026-08-18T07:49:53+08:00",
- "total": 11,
+ "updated": "2026-08-18T09:24:21+08:00",
+ "total": 12,
  "high_priority": 5,
  "items": [
+  {
+   "id": "acc51424492e77a0",
+   "module": "新闻监控",
+   "source": "BBC News",
+   "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+   "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+   "score": 7.0,
+   "star": 2,
+   "core_conclusion": "美加贸易谈判紧张，新关税截止日临近，加拿大或需让步。",
+   "key_data": [],
+   "logic_chain": [
+    "特朗普关税威胁→美加紧急谈判",
+    "加拿大可能让步以达成协议"
+   ],
+   "anchor_q": "加拿大让步会如何影响美股和加元汇率？",
+   "ts": "2026-08-18T09:24:20+08:00",
+   "source_type": "rss",
+   "push_date": "2026-08-18",
+   "feedback": ""
+  },
   {
    "id": "2baba2fbeed7b100",
    "module": "新闻监控",
