@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-19T23:34:42+08:00",
- "total": 9,
- "high_priority": 3,
+ "updated": "2026-08-20T00:35:21+08:00",
+ "total": 8,
+ "high_priority": 2,
  "items": [
   {
    "id": "765dfa08fa5b0615",
@@ -179,26 +179,6 @@
    "ts": "2026-08-17T10:45:45+08:00",
    "source_type": "rss",
    "push_date": "2026-08-17",
-   "feedback": ""
-  },
-  {
-   "id": "5bd48dc65fc09161",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
-   "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
-   "score": 8.0,
-   "star": 3,
-   "core_conclusion": "AI数据中心扩张促使政策制定者施压科技巨头分享利润。",
-   "key_data": [],
-   "logic_chain": [
-    "科技巨头通过AI数据中心获得巨大利益",
-    "政策制定者推动利益分享以缓解社会不满"
-   ],
-   "anchor_q": "政策施压会如何影响科技巨头估值？",
-   "ts": "2026-08-16T17:31:10+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-16",
    "feedback": ""
   }
  ]
