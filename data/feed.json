@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-20T23:59:57+08:00",
- "total": 8,
- "high_priority": 2,
+ "updated": "2026-08-21T00:46:23+08:00",
+ "total": 3,
+ "high_priority": 1,
  "items": [
   {
    "id": "765dfa08fa5b0615",
@@ -66,119 +66,6 @@
    "ts": "2026-08-18T01:58:53+08:00",
    "source_type": "rss",
    "push_date": "2026-08-18",
-   "feedback": ""
-  },
-  {
-   "id": "f4892ca535b0e33f",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
-   "url": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
-   "score": 6.5,
-   "star": 1,
-   "core_conclusion": "Mark Cuban担忧加州财富税将抑制初创文化",
-   "key_data": [
-    "Mark Cuban expressed concerns about California wealth tax proposal",
-    "Wealth tax could chill start-up culture"
-   ],
-   "logic_chain": [
-    "财富税增加高净值个人税负",
-    "导致风险投资和创业活动减少"
-   ],
-   "anchor_q": "加州财富税若通过，哪些科技股将受影响？",
-   "ts": "2026-08-17T20:52:06+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-17",
-   "feedback": ""
-  },
-  {
-   "id": "5758c94eb0d3415f",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-   "url": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-   "score": 7.5,
-   "star": 2,
-   "core_conclusion": "印度UPI可能开始征收商户费用，引发支付生态争议",
-   "key_data": [
-    "印度UPI是全球最大数字支付系统之一",
-    "UPI目前对用户免费"
-   ],
-   "logic_chain": [
-    "UPI免费模式导致收入压力",
-    "引入商户费用可能改变用户行为"
-   ],
-   "anchor_q": "如果UPI收费，是否会影响印度数字支付的增长势头？",
-   "ts": "2026-08-17T17:11:03+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-17",
-   "feedback": ""
-  },
-  {
-   "id": "e470694833e0a188",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
-   "url": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
-   "score": 6.5,
-   "star": 1,
-   "core_conclusion": "法国初创Inbolt的3D视觉相机用于Stellantis工厂机器人",
-   "key_data": [
-    "Inbolt是法国初创公司",
-    "其相机用于Stellantis底特律工厂的机器人手臂"
-   ],
-   "logic_chain": [
-    "机器人视觉提升制造精度",
-    "Stellantis采用表明工业需求"
-   ],
-   "anchor_q": "Inbolt的机器人视觉技术能否在工业自动化中大规模推广？",
-   "ts": "2026-08-17T17:11:03+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-17",
-   "feedback": ""
-  },
-  {
-   "id": "e1dd421e03ecb226",
-   "module": "新闻监控",
-   "source": "NYT > Business",
-   "title": "As China Hunts for Scientific Talent, the US Makes It Easier",
-   "url": "https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html",
-   "score": 6.0,
-   "star": 1,
-   "core_conclusion": "美国限制与中国资金正改变全球科技人才流动平衡。",
-   "key_data": [],
-   "logic_chain": [
-    "美国移民限制减少人才留美",
-    "中国资金吸引人才回流，增强科技实力"
-   ],
-   "anchor_q": "美国科技股是否因人才流失面临长期风险？",
-   "ts": "2026-08-17T12:47:16+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-17",
-   "feedback": ""
-  },
-  {
-   "id": "0d232b368cf0dec8",
-   "module": "新闻监控",
-   "source": "BBC News",
-   "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-   "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-   "score": 8.2,
-   "star": 3,
-   "core_conclusion": "Meta因青少年保护问题被30州起诉，败诉或迫使平台大改",
-   "key_data": [
-    "30个美国州起诉Meta",
-    "要求改革平台以保护年轻用户",
-    "涉及Instagram和Facebook"
-   ],
-   "logic_chain": [
-    "30州指控Meta平台对青少年有害",
-    "诉讼若成功将强制Meta改变产品设计，可能影响用户增长和广告收入"
-   ],
-   "anchor_q": "Meta诉讼结果会如何影响其广告收入和用户粘性？",
-   "ts": "2026-08-17T10:45:45+08:00",
-   "source_type": "rss",
-   "push_date": "2026-08-17",
    "feedback": ""
   }
  ]
