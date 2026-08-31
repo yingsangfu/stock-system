@@ -1,89 +1,5 @@
 [
  {
-  "id": "0da77f1d10333ecc",
-  "title": "‘Adults’ Is Getting a New First Episode",
-  "core_conclusion": "",
-  "ts": "2026-08-01T01:06:26+08:00"
- },
- {
-  "id": "1b9ec6e3db2c1cd2",
-  "title": "Adam O’Neal Resigns as Washington Post Opinion Editor",
-  "core_conclusion": "",
-  "ts": "2026-08-01T01:06:26+08:00"
- },
- {
-  "id": "fc7f06776f707464",
-  "title": "Companies Rush to Close Daring Deals Under Trump",
-  "core_conclusion": "NextEra Energy与Dominion Energy于五月宣布合并",
-  "ts": "2026-08-01T01:06:26+08:00"
- },
- {
-  "id": "53a360b574c82c4e",
-  "title": "AI firms must answer for rogue bots, says boss of hacked company",
-  "core_conclusion": "AI公司需为恶意机器人担责，防止网络攻击常态化。",
-  "ts": "2026-08-01T02:54:38+08:00"
- },
- {
-  "id": "3335b65f3042cdb5",
-  "title": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
-  "core_conclusion": "",
-  "ts": "2026-08-01T05:41:12+08:00"
- },
- {
-  "id": "2de239fa3c5036d2",
-  "title": "Next Met Gala Show Will Honor John Galliano, Celebrated Designer Infamous for Antisemitic Rant",
-  "core_conclusion": "",
-  "ts": "2026-08-01T05:41:12+08:00"
- },
- {
-  "id": "272a0c9327e3ab2b",
-  "title": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
-  "core_conclusion": "美联储新主席考虑减少政策会议频率",
-  "ts": "2026-08-01T05:41:12+08:00"
- },
- {
-  "id": "9e7d925a60c7dc6b",
-  "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-  "core_conclusion": "",
-  "ts": "2026-08-01T07:05:25+08:00"
- },
- {
-  "id": "812df3ef423ce5a3",
-  "title": "The Fight Over the World’s Oldest Bank",
-  "core_conclusion": "",
-  "ts": "2026-08-01T17:35:16+08:00"
- },
- {
-  "id": "a1dc938553fcd692",
-  "title": "Is A.I. ‘Scheming’ Against Us?",
-  "core_conclusion": "",
-  "ts": "2026-08-01T17:35:16+08:00"
- },
- {
-  "id": "c3cd6b0bf61ad8b2",
-  "title": "Leaving Property to Your Heirs Can Lead to Headache, not Robust Wealth",
-  "core_conclusion": "",
-  "ts": "2026-08-01T17:35:16+08:00"
- },
- {
-  "id": "9be5ecb53b127c5e",
-  "title": "Carmakers Go Back to the ’80s With Turbo Engines",
-  "core_conclusion": "",
-  "ts": "2026-08-01T17:35:16+08:00"
- },
- {
-  "id": "0cb570a199f97230",
-  "title": "The High-Stakes Battle for Invisible Real Estate in Space",
-  "core_conclusion": "无线电频谱价值上升，SpaceX与政府争夺控制权",
-  "ts": "2026-08-01T20:34:34+08:00"
- },
- {
-  "id": "e0f5bbc388ae9c74",
-  "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-  "core_conclusion": "",
-  "ts": "2026-08-01T22:36:42+08:00"
- },
- {
   "id": "49a966dffbacc3ba",
   "title": "‘Spider-Man’ Heads for $875 Million Global Opening, Defying Superhero Slump",
   "core_conclusion": "",
@@ -3592,5 +3508,59 @@
   "title": "How the US-Canada trade war is being felt on both sides of the border",
   "core_conclusion": "",
   "ts": "2026-08-31T09:30:51+08:00"
+ },
+ {
+  "id": "ba2eb0703745c2ac",
+  "title": "Kalshi Permanently Bars George Santos From the Platform",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "deb9c828c09fbab1",
+  "title": "Private Equity Wants to Invest in College Sports. Some Schools Are Wary.",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "61d349e7cca5af1f",
+  "title": "U.S. Start-Up and Saudi Arabia Form Data Center Partnership",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "9ab049df5518d30c",
+  "title": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "378470c5211bd59f",
+  "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "bda41f62c4e339bc",
+  "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "e6dbcb0026c431d7",
+  "title": "A Half-Price Luxury E.V. Comes With a Big Asterisk",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "7ff905216e7e296f",
+  "title": "Chinese Cars Could Be Huge in U.S., and That’s the Problem, Officials Say",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
+ },
+ {
+  "id": "ee3b3b947b389861",
+  "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts",
+  "core_conclusion": "",
+  "ts": "2026-09-01T00:18:37+08:00"
  }
 ]
