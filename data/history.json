@@ -1,65 +1,5 @@
 [
  {
-  "id": "fe16c1687d95ca96",
-  "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
-  "core_conclusion": "",
-  "ts": "2026-08-03T04:13:32+08:00"
- },
- {
-  "id": "e4b71300e6a98e9d",
-  "title": "The change that may help you get a mortgage as a first-time buyer",
-  "core_conclusion": "",
-  "ts": "2026-08-03T07:33:28+08:00"
- },
- {
-  "id": "659bfccd11b73501",
-  "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
-  "core_conclusion": "特朗普暂停对伊朗攻击导致油价暴跌",
-  "ts": "2026-08-03T07:33:28+08:00"
- },
- {
-  "id": "34c259e6d9529d21",
-  "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-  "core_conclusion": "",
-  "ts": "2026-08-03T11:23:06+08:00"
- },
- {
-  "id": "442d6699b4a8b790",
-  "title": "US and Japan jointly intervene to prop up yen in rare move",
-  "core_conclusion": "美日罕见联合干预汇市以支撑日元",
-  "ts": "2026-08-03T11:23:06+08:00"
- },
- {
-  "id": "099d443112a4cee9",
-  "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-  "core_conclusion": "",
-  "ts": "2026-08-03T11:23:06+08:00"
- },
- {
-  "id": "46fb5b44f9f00285",
-  "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
-  "core_conclusion": "特朗普确认美财政部上周干预汇市稳定日元",
-  "ts": "2026-08-03T11:23:06+08:00"
- },
- {
-  "id": "f5fcc180966ff876",
-  "title": "What Are Companies Getting for All That A.I. Spending?",
-  "core_conclusion": "出现'tokenomics'新领域衡量AI投资回报",
-  "ts": "2026-08-03T18:47:11+08:00"
- },
- {
-  "id": "17cefb4268eb6e22",
-  "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-  "core_conclusion": "",
-  "ts": "2026-08-03T21:43:45+08:00"
- },
- {
-  "id": "84347f34e4cd14a1",
-  "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
-  "core_conclusion": "特朗普称伊朗和谈恢复，全球市场上涨",
-  "ts": "2026-08-03T21:43:45+08:00"
- },
- {
   "id": "b696dc5085d3ac4e",
   "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
   "core_conclusion": "",
@@ -3772,5 +3712,23 @@
   "title": "Employer Health Costs Are Expected to Spike in 2027",
   "core_conclusion": "",
   "ts": "2026-09-02T21:49:32+08:00"
+ },
+ {
+  "id": "e476eb54fe9d5ca9",
+  "title": "Lords call for AI 'kill switch' powers in UK",
+  "core_conclusion": "",
+  "ts": "2026-09-03T01:44:35+08:00"
+ },
+ {
+  "id": "67af94b0dfe48431",
+  "title": "Uber to cut over 3,000 jobs in major global restructuring",
+  "core_conclusion": "",
+  "ts": "2026-09-03T01:44:35+08:00"
+ },
+ {
+  "id": "e0ba28dd394cdb65",
+  "title": "Trump’s Tactics to Lower Beef Prices and Appease Ranchers Fall Short",
+  "core_conclusion": "",
+  "ts": "2026-09-03T01:44:35+08:00"
  }
 ]
