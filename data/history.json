@@ -1,173 +1,5 @@
 [
  {
-  "id": "deba1e970f292b60",
-  "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
-  "core_conclusion": "",
-  "ts": "2026-08-05T01:57:26+08:00"
- },
- {
-  "id": "1da122b4ed64a051",
-  "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-  "core_conclusion": "",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "6e896b580b685b52",
-  "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-  "core_conclusion": "",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "f4401ad9ad97f7c0",
-  "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-  "core_conclusion": "",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "bf63fa51d705faa9",
-  "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
-  "core_conclusion": "上诉法院裁定EPA不得阻止数十亿美元气候拨款",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "00b6e328699a1caf",
-  "title": "Judge Sets Paramount-Warner Bros. Merger Trial for March",
-  "core_conclusion": "",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "7fa6c43e02980030",
-  "title": "SpaceX’s Spending on A.I. Soars, In First Results After I.P.O.",
-  "core_conclusion": "SpaceX上市后首份财报亏损收窄，AI支出飙升",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "d310b8e4208c03ce",
-  "title": "Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme",
-  "core_conclusion": "",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "0a98d64d3cdc6680",
-  "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-  "core_conclusion": "标普500涨1.8%创新高，科技股反弹",
-  "ts": "2026-08-05T05:17:44+08:00"
- },
- {
-  "id": "97bca50126310e68",
-  "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
-  "core_conclusion": "",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "9c531ff9f0b3fa45",
-  "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-  "core_conclusion": "",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "0921fb04c600c890",
-  "title": "The cost of being single – and how friends are teaming up to beat it",
-  "core_conclusion": "",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "705fb15983486d15",
-  "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-  "core_conclusion": "",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "31ba1cc28636d85d",
-  "title": "Could tech replace firefighters in the battle against wildfires?",
-  "core_conclusion": "",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "902fb707982578fe",
-  "title": "Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants",
-  "core_conclusion": "Chipotle因沙门氏菌污染更换墨西哥辣椒供应商。",
-  "ts": "2026-08-05T08:09:06+08:00"
- },
- {
-  "id": "7ff67625bab14425",
-  "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-  "core_conclusion": "英国AI安全研究所称Anthropic和OpenAI模型在测试中表现出恶意欺骗行为。",
-  "ts": "2026-08-05T11:45:10+08:00"
- },
- {
-  "id": "150a5e259b294242",
-  "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-  "core_conclusion": "",
-  "ts": "2026-08-05T14:32:31+08:00"
- },
- {
-  "id": "d259c70909126bd2",
-  "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
-  "core_conclusion": "",
-  "ts": "2026-08-05T17:40:23+08:00"
- },
- {
-  "id": "d5f8296b941d11f8",
-  "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-  "core_conclusion": "",
-  "ts": "2026-08-05T17:40:23+08:00"
- },
- {
-  "id": "be6cbbbabf7d5502",
-  "title": "Paramount chief executive David Ellison breaks silence on Warner Bros mega merger",
-  "core_conclusion": "",
-  "ts": "2026-08-05T17:40:23+08:00"
- },
- {
-  "id": "f8a2ea5adbdb4d0a",
-  "title": "Wildfire Smoke and Airport Chaos: My Summer Vacation From Hell",
-  "core_conclusion": "",
-  "ts": "2026-08-05T17:40:23+08:00"
- },
- {
-  "id": "4415203b86e8d377",
-  "title": "Government to prioritise job creation in awarding public contracts under new rules",
-  "core_conclusion": "",
-  "ts": "2026-08-05T20:03:00+08:00"
- },
- {
-  "id": "aaeb479b9ebaaa2e",
-  "title": "The New York Times’ Revenue Rises 11%",
-  "core_conclusion": "纽约时报Q2收入增11%，总订阅达1335万",
-  "ts": "2026-08-05T20:03:00+08:00"
- },
- {
-  "id": "ef61b46505fcb2c4",
-  "title": "Disney Theme Parks Report Strong Results, While Comcast’s Universal Parks Dip",
-  "core_conclusion": "迪士尼主题公园游客量增3%，康卡斯特环球公园下滑",
-  "ts": "2026-08-05T20:03:00+08:00"
- },
- {
-  "id": "d6593ed96f6d510a",
-  "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
-  "core_conclusion": "迪士尼+引入TikTok创作者视频以提升用户活跃度",
-  "ts": "2026-08-05T20:03:00+08:00"
- },
- {
-  "id": "a55feb4f87661711",
-  "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
-  "core_conclusion": "",
-  "ts": "2026-08-05T22:57:21+08:00"
- },
- {
-  "id": "a8af401b765442ae",
-  "title": "How China’s A.I. Is Surging Across Africa",
-  "core_conclusion": "中国AI模型因价格优势在非洲超越美国模型。",
-  "ts": "2026-08-05T22:57:21+08:00"
- },
- {
-  "id": "c496bc3a9ee4ea5f",
-  "title": "The Winners of Trump’s A.I. Safety Plan",
-  "core_conclusion": "",
-  "ts": "2026-08-05T22:57:21+08:00"
- },
- {
   "id": "647bee069264e618",
   "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen",
   "core_conclusion": "美国干预日元凸显全球市场与美股联动",
@@ -3832,5 +3664,59 @@
   "title": "Wineries Are Offering Bingo, Picnics, Jewelry … and Sometimes Wine",
   "core_conclusion": "",
   "ts": "2026-09-04T21:18:04+08:00"
+ },
+ {
+  "id": "67d1055ccac08e71",
+  "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "481a00a1179b8057",
+  "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "b5682d86859fb521",
+  "title": "What to know about the report.",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "2f7378047d431b10",
+  "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "be56e543ffb67584",
+  "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "51947f1a25fac254",
+  "title": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "c53f80dd85d4f10f",
+  "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "129958510d334833",
+  "title": "The Pros and Cons of Paying Off Your Mortgage Early",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
+ },
+ {
+  "id": "88c51ec296d8f160",
+  "title": "What to know about the report.",
+  "core_conclusion": "",
+  "ts": "2026-09-05T00:58:39+08:00"
  }
 ]
