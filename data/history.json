@@ -1,113 +1,5 @@
 [
  {
-  "id": "dec5b2b749c9e5ab",
-  "title": "Flight Is Canceled After a Child Refuses to Be Seated",
-  "core_conclusion": "",
-  "ts": "2026-08-10T02:46:46+08:00"
- },
- {
-  "id": "5240f40b0dec0418",
-  "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
-  "core_conclusion": "",
-  "ts": "2026-08-10T06:34:47+08:00"
- },
- {
-  "id": "b18752cba32f64fc",
-  "title": "You could be missing out on £150 off your energy bill - here's how to check",
-  "core_conclusion": "",
-  "ts": "2026-08-10T10:05:52+08:00"
- },
- {
-  "id": "768f59154ceff4e4",
-  "title": "Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns",
-  "core_conclusion": "",
-  "ts": "2026-08-10T12:15:06+08:00"
- },
- {
-  "id": "2df66619b3e0591e",
-  "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-  "core_conclusion": "",
-  "ts": "2026-08-10T13:56:51+08:00"
- },
- {
-  "id": "6ad4044c2011eb4f",
-  "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-  "core_conclusion": "",
-  "ts": "2026-08-10T15:53:50+08:00"
- },
- {
-  "id": "be4ba93bfc195fdd",
-  "title": "Could your tattoo stop you from getting a job?",
-  "core_conclusion": "",
-  "ts": "2026-08-10T15:53:50+08:00"
- },
- {
-  "id": "b5b021f9233ce5fd",
-  "title": "Thames Water gave finance boss a £1m signing-on fee",
-  "core_conclusion": "",
-  "ts": "2026-08-10T17:27:44+08:00"
- },
- {
-  "id": "7e37f85dd508adfb",
-  "title": "Private Equity Is Stuck With 33,575 Unsold Businesses",
-  "core_conclusion": "私募股权积压3.3万家未售企业，Apollo PE业绩疲弱",
-  "ts": "2026-08-10T17:27:44+08:00"
- },
- {
-  "id": "a56c9619eed9f48b",
-  "title": "Can A.I. Get You Where You Want to Go for Less?",
-  "core_conclusion": "新AI服务监控航班酒店价格以寻找更低价格",
-  "ts": "2026-08-10T17:27:44+08:00"
- },
- {
-  "id": "b45b56ec46cf96e1",
-  "title": "Why Are So Many People Upset About Flock Cameras?",
-  "core_conclusion": "",
-  "ts": "2026-08-10T17:27:44+08:00"
- },
- {
-  "id": "1a8604fb4ef5f6e6",
-  "title": "'You could smell someone' who worked at Raleigh",
-  "core_conclusion": "",
-  "ts": "2026-08-10T18:45:12+08:00"
- },
- {
-  "id": "4d8fced8b4423245",
-  "title": "Water outage forces Chessington theme park to close",
-  "core_conclusion": "",
-  "ts": "2026-08-10T21:18:16+08:00"
- },
- {
-  "id": "d4619c48ecd30e6f",
-  "title": "Why Meta Is Betting Big on Open A.I.",
-  "core_conclusion": "",
-  "ts": "2026-08-10T21:18:16+08:00"
- },
- {
-  "id": "e7954c6cbcd1ee47",
-  "title": "Boeing to Sell 3 Autonomous Flight Subsidiaries",
-  "core_conclusion": "",
-  "ts": "2026-08-10T21:18:16+08:00"
- },
- {
-  "id": "b580108b1dee2a3e",
-  "title": "Consortium advances talks for stake in Liverpool",
-  "core_conclusion": "",
-  "ts": "2026-08-10T22:38:35+08:00"
- },
- {
-  "id": "592de501defb1f4d",
-  "title": "How Small, Independent Newspapers Are Still Finding Readers",
-  "core_conclusion": "",
-  "ts": "2026-08-10T22:38:35+08:00"
- },
- {
-  "id": "0485749d6ffa0d1b",
-  "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
-  "core_conclusion": "Waymo无人驾驶出租车已扩展至15个都市区",
-  "ts": "2026-08-10T22:38:35+08:00"
- },
- {
   "id": "c3cc1ad274e6686d",
   "title": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
   "core_conclusion": "",
@@ -3814,5 +3706,29 @@
   "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
   "core_conclusion": "",
   "ts": "2026-09-09T19:47:16+08:00"
+ },
+ {
+  "id": "95b678b33027d919",
+  "title": "Treasury Plans $6 Billion in Debt Repurchases to Battle Rising Yields",
+  "core_conclusion": "",
+  "ts": "2026-09-10T00:14:08+08:00"
+ },
+ {
+  "id": "8babd2eaa752c7c5",
+  "title": "Saudi Arabia Runs Out of Easy Routes for Oil to Bypass Iran War",
+  "core_conclusion": "",
+  "ts": "2026-09-10T00:14:08+08:00"
+ },
+ {
+  "id": "c5ff2407adc3a422",
+  "title": "Measuring the Cost of Trump’s Multiple Wars",
+  "core_conclusion": "",
+  "ts": "2026-09-10T00:14:08+08:00"
+ },
+ {
+  "id": "96096b7348f34c72",
+  "title": "Clay, an A.I. Sales Tool Provider, Raises $115 Million",
+  "core_conclusion": "",
+  "ts": "2026-09-10T00:14:08+08:00"
  }
 ]
