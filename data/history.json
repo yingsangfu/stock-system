@@ -1,125 +1,5 @@
 [
  {
-  "id": "d8f05b2fa059daa9",
-  "title": "Alfonso Fanjul Jr., Cuban American Sugar Baron, Dies at 89",
-  "core_conclusion": "",
-  "ts": "2026-08-14T00:26:11+08:00"
- },
- {
-  "id": "5c30565fc4a8a6cd",
-  "title": "Flock Announces Privacy Updates to Its Car-Tracking Cameras",
-  "core_conclusion": "",
-  "ts": "2026-08-14T01:31:40+08:00"
- },
- {
-  "id": "7a28ea4960eb313b",
-  "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-  "core_conclusion": "",
-  "ts": "2026-08-14T06:12:53+08:00"
- },
- {
-  "id": "708c402b4607ec23",
-  "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
-  "core_conclusion": "",
-  "ts": "2026-08-14T07:13:08+08:00"
- },
- {
-  "id": "56b057cc172ee571",
-  "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role",
-  "core_conclusion": "",
-  "ts": "2026-08-14T07:13:08+08:00"
- },
- {
-  "id": "5fef91dc547b0836",
-  "title": "Kalshi Ordered to Cease Most Operations in Washington State",
-  "core_conclusion": "华盛顿州命令Kalshi停止大部分业务，预测市场遇监管挑战。",
-  "ts": "2026-08-14T11:08:22+08:00"
- },
- {
-  "id": "1eeb261bdc115f6e",
-  "title": "US says dozens of countries helped China dodge Trump's tariffs",
-  "core_conclusion": "美国报告称多国助中国规避关税，或加剧贸易紧张。",
-  "ts": "2026-08-14T13:15:36+08:00"
- },
- {
-  "id": "e1e53d14aa13f362",
-  "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-  "core_conclusion": "",
-  "ts": "2026-08-14T17:37:30+08:00"
- },
- {
-  "id": "c1d45bf041154396",
-  "title": "Gone in 20 Minutes: Half-Off Sushi Draws Throngs to New York’s Japanese Markets",
-  "core_conclusion": "",
-  "ts": "2026-08-14T17:37:30+08:00"
- },
- {
-  "id": "df1818ccd07933cc",
-  "title": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
-  "core_conclusion": "",
-  "ts": "2026-08-14T17:37:30+08:00"
- },
- {
-  "id": "cda41ad14b637072",
-  "title": "How Pennsylvania Got Hooked on Games That Look a Lot Like Slot Machines",
-  "core_conclusion": "",
-  "ts": "2026-08-14T17:37:30+08:00"
- },
- {
-  "id": "3d086c0ecc47456d",
-  "title": "Gone in 20 Minutes: Half-Off Sushi Draws Throngs to New York’s Japanese Markets",
-  "core_conclusion": "",
-  "ts": "2026-08-14T18:59:53+08:00"
- },
- {
-  "id": "bcd2732db4f674dc",
-  "title": "Selena Gomez sued for alleged fraud over mental health company",
-  "core_conclusion": "",
-  "ts": "2026-08-14T19:53:24+08:00"
- },
- {
-  "id": "2433c920eff78acb",
-  "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
-  "core_conclusion": "标普500有望连续四年上涨，但风险上升，华尔街仍加码。",
-  "ts": "2026-08-14T21:15:46+08:00"
- },
- {
-  "id": "29c0d81f31200875",
-  "title": "Robinhood Bets Again on a Public Venture Capital Fund",
-  "core_conclusion": "",
-  "ts": "2026-08-14T21:15:46+08:00"
- },
- {
-  "id": "7af1f860591bd0e1",
-  "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-  "core_conclusion": "英国政府考虑将2030年电动车销售目标从80%下调至50%。",
-  "ts": "2026-08-14T22:32:12+08:00"
- },
- {
-  "id": "0b4c29f8d1cd7760",
-  "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-  "core_conclusion": "",
-  "ts": "2026-08-14T22:32:12+08:00"
- },
- {
-  "id": "eec2c6cfaa39e950",
-  "title": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
-  "core_conclusion": "",
-  "ts": "2026-08-14T22:32:12+08:00"
- },
- {
-  "id": "7edabf24d2ece921",
-  "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
-  "core_conclusion": "Alphabet和Google的AI投资贡献额外利润",
-  "ts": "2026-08-14T23:56:20+08:00"
- },
- {
-  "id": "c354d8784d47d1b4",
-  "title": "Why Japan Is Struggling to Stop the Yen’s Decline",
-  "core_conclusion": "日元反弹消退，逼近160关口考验美日官方干预决心",
-  "ts": "2026-08-14T23:56:20+08:00"
- },
- {
   "id": "d6cdc42d9e60c9dc",
   "title": "Jeff Bezos Buys a Piece of Liverpool Football Club",
   "core_conclusion": "",
@@ -3634,5 +3514,83 @@
   "title": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
   "core_conclusion": "",
   "ts": "2026-09-12T22:18:04+08:00"
+ },
+ {
+  "id": "052f4cdc5c606b2f",
+  "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "7dbc65d0d8e0fd7d",
+  "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "6fe0b9f03634e8e2",
+  "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "12635b5026acfb25",
+  "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "1f5ed8139ca01547",
+  "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "c37d4d3325c23506",
+  "title": "Trump Blames Ukraine for Global Diesel Shortage",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "f8745f2f86d7b593",
+  "title": "Inside the $440 Million Collapse of Guidepost Montessori",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "4ff0e06a1a1dede0",
+  "title": "What to Expect at the 2026 Emmy Awards",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "704ddbc5edc2d105",
+  "title": "Every Word My Employee Writes Reeks of A.I.",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "58da5055fc7f15b5",
+  "title": "Self-Employed Workers Find Rewards — and Challenges — Building Their Own Businesses",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "d25db5f32319a96f",
+  "title": "They Built a Shrine to Cable TV. Then Everyone Cut the Cord.",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "3f0e86435703bb92",
+  "title": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
+ },
+ {
+  "id": "dcacae257e242ce2",
+  "title": "Risks for Clicks: Why Online Influencers Push Shock Content",
+  "core_conclusion": "",
+  "ts": "2026-09-14T03:34:57+08:00"
  }
 ]
