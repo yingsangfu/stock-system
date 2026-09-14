@@ -1,83 +1,5 @@
 [
  {
-  "id": "d6cdc42d9e60c9dc",
-  "title": "Jeff Bezos Buys a Piece of Liverpool Football Club",
-  "core_conclusion": "",
-  "ts": "2026-08-15T00:58:23+08:00"
- },
- {
-  "id": "4440d81d049784ca",
-  "title": "July Retail Sales Notch Biggest Drop in Over a Year",
-  "core_conclusion": "美国7月零售销售环比降幅创一年多新高，通胀压力持续。",
-  "ts": "2026-08-15T00:58:23+08:00"
- },
- {
-  "id": "85ec68fc780c88ab",
-  "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-  "core_conclusion": "联合健康等保险公司高管在国会听证会辩护，公众愤怒未平息。",
-  "ts": "2026-08-15T01:58:57+08:00"
- },
- {
-  "id": "b7f5c01eb1498226",
-  "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-  "core_conclusion": "Google Classroom新增Gemini AI标签页，提供学习辅助和内容生成功能",
-  "ts": "2026-08-15T03:06:03+08:00"
- },
- {
-  "id": "1470e3c1bcf33f6a",
-  "title": "Hiroshi Okuda, Disrupter Who Revived Toyota in the 1990s, Dies at 93",
-  "core_conclusion": "",
-  "ts": "2026-08-15T04:04:48+08:00"
- },
- {
-  "id": "a33ec382a5434a72",
-  "title": "Selena Gomez Is Sued for Defrauding Investors in Mental Health Site",
-  "core_conclusion": "",
-  "ts": "2026-08-15T04:04:48+08:00"
- },
- {
-  "id": "eb9e483efcce819c",
-  "title": "Protein or pickled garlic? What's new in ice cream",
-  "core_conclusion": "",
-  "ts": "2026-08-15T05:32:49+08:00"
- },
- {
-  "id": "90b26f1a0f396164",
-  "title": "FDA Classifies Egg Recall as Class I for Highest Health Risk",
-  "core_conclusion": "",
-  "ts": "2026-08-15T07:25:32+08:00"
- },
- {
-  "id": "6fda0c55c377c276",
-  "title": "Sports Team Sale Prices Keep Hitting New Highs",
-  "core_conclusion": "",
-  "ts": "2026-08-15T17:30:26+08:00"
- },
- {
-  "id": "d77e7d4926731d43",
-  "title": "Worker Pay Isn’t Keeping Up With Inflation Once Again",
-  "core_conclusion": "",
-  "ts": "2026-08-15T17:30:26+08:00"
- },
- {
-  "id": "310c5a1d0befe0f7",
-  "title": "How to Protect Your Home While You’re on Vacation",
-  "core_conclusion": "",
-  "ts": "2026-08-15T17:30:26+08:00"
- },
- {
-  "id": "06c05b577da5ec88",
-  "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
-  "core_conclusion": "",
-  "ts": "2026-08-15T17:30:26+08:00"
- },
- {
-  "id": "ec56e5c62f471644",
-  "title": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
-  "core_conclusion": "科技巨头竞相将可穿戴设备数据整合进医疗系统，拓展健康服务。",
-  "ts": "2026-08-15T20:43:48+08:00"
- },
- {
   "id": "457502367a683e05",
   "title": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
   "core_conclusion": "",
@@ -3718,5 +3640,41 @@
   "title": "Oil Prices Jump on Energy Supply Worries",
   "core_conclusion": "",
   "ts": "2026-09-14T21:45:54+08:00"
+ },
+ {
+  "id": "6f2c62de99f44335",
+  "title": "Government set to nationalise troubled steel firm",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
+ },
+ {
+  "id": "4a35e1fe23cc22a9",
+  "title": "Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
+ },
+ {
+  "id": "8cb00b31f6fe2ecc",
+  "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
+ },
+ {
+  "id": "fe142582407643f7",
+  "title": "Cisco Likely Allowed Harassment of Pro-Palestinian Workers, EEOC Says",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
+ },
+ {
+  "id": "59b9160c3f7daff3",
+  "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
+ },
+ {
+  "id": "bf76168d6ecd128d",
+  "title": "Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns",
+  "core_conclusion": "",
+  "ts": "2026-09-15T03:06:28+08:00"
  }
 ]
