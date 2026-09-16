@@ -1,65 +1,5 @@
 [
  {
-  "id": "14dbf26d81ade7bf",
-  "title": "Ferrari's first ever electric car sold for record $40m at auction",
-  "core_conclusion": "",
-  "ts": "2026-08-17T10:45:46+08:00"
- },
- {
-  "id": "0d232b368cf0dec8",
-  "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-  "core_conclusion": "Meta因青少年保护问题被30州起诉，败诉或迫使平台大改",
-  "ts": "2026-08-17T10:45:46+08:00"
- },
- {
-  "id": "e1dd421e03ecb226",
-  "title": "As China Hunts for Scientific Talent, the US Makes It Easier",
-  "core_conclusion": "美国限制与中国资金正改变全球科技人才流动平衡。",
-  "ts": "2026-08-17T12:47:17+08:00"
- },
- {
-  "id": "d8e975a44951eef1",
-  "title": "How switching your bank account could earn you up to £220",
-  "core_conclusion": "",
-  "ts": "2026-08-17T15:02:59+08:00"
- },
- {
-  "id": "80e14792b7ed05cb",
-  "title": "Sainsbury's pauses AI cameras after shopper ousted",
-  "core_conclusion": "",
-  "ts": "2026-08-17T17:11:04+08:00"
- },
- {
-  "id": "5758c94eb0d3415f",
-  "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-  "core_conclusion": "印度UPI可能开始征收商户费用，引发支付生态争议",
-  "ts": "2026-08-17T17:11:04+08:00"
- },
- {
-  "id": "e470694833e0a188",
-  "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
-  "core_conclusion": "法国初创Inbolt的3D视觉相机用于Stellantis工厂机器人",
-  "ts": "2026-08-17T17:11:04+08:00"
- },
- {
-  "id": "dacf872ba22f9fe6",
-  "title": "Virgin takes step towards running Channel Tunnel rail services",
-  "core_conclusion": "",
-  "ts": "2026-08-17T18:06:42+08:00"
- },
- {
-  "id": "d80ae00f051ea1fc",
-  "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
-  "core_conclusion": "",
-  "ts": "2026-08-17T20:52:07+08:00"
- },
- {
-  "id": "f4892ca535b0e33f",
-  "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
-  "core_conclusion": "Mark Cuban担忧加州财富税将抑制初创文化",
-  "ts": "2026-08-17T20:52:07+08:00"
- },
- {
   "id": "2baba2fbeed7b100",
   "title": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
   "core_conclusion": "美国BNPL贷款去年达1600亿美元，两年翻倍，渗透必需品支出。",
@@ -3958,5 +3898,71 @@
   "title": "In Silicon Valley, Hardware Is Having a Moment Again",
   "core_conclusion": "",
   "ts": "2026-09-16T22:18:05+08:00"
+ },
+ {
+  "id": "5aa37e0ac4356956",
+  "title": "Federal Reserve issues FOMC statement",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "0e63f32df71a38be",
+  "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "9b0db7ce75ecf023",
+  "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "aa13df1457cebcee",
+  "title": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "b70b72946e40db73",
+  "title": "Outkick Moves Past Its Clay Travis Era",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "d726b88914c98f4f",
+  "title": "How to read the Fed’s projections like a pro.",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "c6f3cc39273d3685",
+  "title": "How the Fed’s move affects your finances.",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "bedfba90416d51f6",
+  "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "8168a0dbd897e0dd",
+  "title": "Billions in Taxes Go Unpaid. Under Trump, the I.R.S. Won’t Say How Much.",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "1ec3f01eb90afe2f",
+  "title": "The Quiet Way A.I. Is Hitting the Work Force",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
+ },
+ {
+  "id": "ca50f22d58c2230f",
+  "title": "What to know about the Fed’s decision.",
+  "core_conclusion": "",
+  "ts": "2026-09-17T02:19:46+08:00"
  }
 ]
