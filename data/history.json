@@ -1,155 +1,5 @@
 [
  {
-  "id": "2baba2fbeed7b100",
-  "title": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
-  "core_conclusion": "美国BNPL贷款去年达1600亿美元，两年翻倍，渗透必需品支出。",
-  "ts": "2026-08-18T01:58:54+08:00"
- },
- {
-  "id": "f63411c19c5e3131",
-  "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-  "core_conclusion": "",
-  "ts": "2026-08-18T02:52:20+08:00"
- },
- {
-  "id": "7811bdc105ebb5ce",
-  "title": "Fifa official sacked after Infantino plan criticism",
-  "core_conclusion": "",
-  "ts": "2026-08-18T06:28:10+08:00"
- },
- {
-  "id": "c1175a03fd45818f",
-  "title": "To joke or not to joke?: How to write a good out-of-office message",
-  "core_conclusion": "",
-  "ts": "2026-08-18T07:26:58+08:00"
- },
- {
-  "id": "a5ec30ae3aa420d8",
-  "title": "Film commission backs Amazon MGM expansion of studios",
-  "core_conclusion": "",
-  "ts": "2026-08-18T07:49:53+08:00"
- },
- {
-  "id": "acc51424492e77a0",
-  "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
-  "core_conclusion": "美加贸易谈判紧张，新关税截止日临近，加拿大或需让步。",
-  "ts": "2026-08-18T09:24:21+08:00"
- },
- {
-  "id": "ed4738027f967843",
-  "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
-  "core_conclusion": "",
-  "ts": "2026-08-18T12:40:11+08:00"
- },
- {
-  "id": "b997eb7b7e6e01ce",
-  "title": "India’s College Boom Is Leaving Graduates in Debt and Without Jobs",
-  "core_conclusion": "",
-  "ts": "2026-08-18T12:40:11+08:00"
- },
- {
-  "id": "a3fb9b3c75e16c3a",
-  "title": "Disabled people in England to get 24-hour free bus travel",
-  "core_conclusion": "",
-  "ts": "2026-08-18T13:33:33+08:00"
- },
- {
-  "id": "4d76ff9954771616",
-  "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-  "core_conclusion": "",
-  "ts": "2026-08-18T14:51:07+08:00"
- },
- {
-  "id": "765dfa08fa5b0615",
-  "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
-  "core_conclusion": "英改革党拟削500亿镑福利，BBC析可行性",
-  "ts": "2026-08-18T14:51:07+08:00"
- },
- {
-  "id": "670f2463ea442954",
-  "title": "Ferguson shipyard to cut a quarter of its workforce",
-  "core_conclusion": "",
-  "ts": "2026-08-18T16:40:44+08:00"
- },
- {
-  "id": "ae5996a543afd259",
-  "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-  "core_conclusion": "",
-  "ts": "2026-08-18T17:37:02+08:00"
- },
- {
-  "id": "6eff9bbb2a4f57a4",
-  "title": "What’s in an Airport Code? In West Palm Beach, It’s the President’s Initials.",
-  "core_conclusion": "",
-  "ts": "2026-08-18T17:37:02+08:00"
- },
- {
-  "id": "8559be4f272c3d73",
-  "title": "Wetherspoons bans customers playing music from phones in pubs",
-  "core_conclusion": "",
-  "ts": "2026-08-18T18:31:52+08:00"
- },
- {
-  "id": "c40bd5eb2535564b",
-  "title": "Ship Exiting the Strait of Hormuz Is Attacked",
-  "core_conclusion": "",
-  "ts": "2026-08-18T20:52:33+08:00"
- },
- {
-  "id": "0294778d27fce994",
-  "title": "Is Silicon Valley in the Justice Dept.’s Sights?",
-  "core_conclusion": "",
-  "ts": "2026-08-18T20:52:33+08:00"
- },
- {
-  "id": "2f2ef9ce28836bed",
-  "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
-  "core_conclusion": "",
-  "ts": "2026-08-18T20:52:33+08:00"
- },
- {
-  "id": "8c5b17e61d4870e3",
-  "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-  "core_conclusion": "",
-  "ts": "2026-08-18T21:45:23+08:00"
- },
- {
-  "id": "26912f7cadf11f71",
-  "title": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
-  "core_conclusion": "",
-  "ts": "2026-08-18T21:45:23+08:00"
- },
- {
-  "id": "33c44f47177f498e",
-  "title": "From jumpers to slug pellets - how British wool is back in demand",
-  "core_conclusion": "",
-  "ts": "2026-08-18T22:36:55+08:00"
- },
- {
-  "id": "fdd614ca134b10d6",
-  "title": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
-  "core_conclusion": "",
-  "ts": "2026-08-18T22:36:55+08:00"
- },
- {
-  "id": "df74e9dac8e13ecc",
-  "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
-  "core_conclusion": "",
-  "ts": "2026-08-18T22:36:55+08:00"
- },
- {
-  "id": "8089e52739dd3d2d",
-  "title": "Home Depot Reports Higher Sales, but Its C.E.O. Isn’t There to Spread the News",
-  "core_conclusion": "",
-  "ts": "2026-08-18T22:36:55+08:00"
- },
- {
-  "id": "47d75192d3ff3d19",
-  "title": "Sugar Importer With Trump Ties Said to Maintain Abusive Labor Practices",
-  "core_conclusion": "",
-  "ts": "2026-08-18T23:35:09+08:00"
- },
- {
   "id": "3d3d4ad67d5b7c93",
   "title": "Global borrowing costs hit fresh highs",
   "core_conclusion": "",
@@ -4090,5 +3940,17 @@
   "title": "World Bank Courts Private Financing Amid Global Debt Burden",
   "core_conclusion": "",
   "ts": "2026-09-17T23:12:17+08:00"
+ },
+ {
+  "id": "0783a2b04046f283",
+  "title": "Fed Chairman Warsh Escapes Trump’s Ire Over Interest Rate Increase",
+  "core_conclusion": "",
+  "ts": "2026-09-18T03:10:45+08:00"
+ },
+ {
+  "id": "0095e55e502e8ab3",
+  "title": "Why Is It So Difficult To Regulate A.I.?",
+  "core_conclusion": "",
+  "ts": "2026-09-18T03:10:45+08:00"
  }
 ]
