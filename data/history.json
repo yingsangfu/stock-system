@@ -1,137 +1,5 @@
 [
  {
-  "id": "abe1cbe9b5adee38",
-  "title": "How Farmers Are Staying Afloat as Crop Prices Plunge",
-  "core_conclusion": "",
-  "ts": "2026-08-25T00:41:57+08:00"
- },
- {
-  "id": "5b930dcf7b200b81",
-  "title": "Rail companies sued for £5m over oil spill caused by derailment",
-  "core_conclusion": "",
-  "ts": "2026-08-25T01:33:46+08:00"
- },
- {
-  "id": "4465bc7e9a7c0f1a",
-  "title": "Manga-inspired theme park to be built near Paris",
-  "core_conclusion": "",
-  "ts": "2026-08-25T04:34:17+08:00"
- },
- {
-  "id": "3382eb0a6c3c63e5",
-  "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
-  "core_conclusion": "",
-  "ts": "2026-08-25T04:34:17+08:00"
- },
- {
-  "id": "387a95c4612f8e58",
-  "title": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
-  "core_conclusion": "",
-  "ts": "2026-08-25T04:34:17+08:00"
- },
- {
-  "id": "bfd4a7d4e941d65c",
-  "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
-  "core_conclusion": "",
-  "ts": "2026-08-25T06:29:50+08:00"
- },
- {
-  "id": "8f656b2ce514f04c",
-  "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
-  "core_conclusion": "",
-  "ts": "2026-08-25T06:29:50+08:00"
- },
- {
-  "id": "f00c038feec433af",
-  "title": "New 10p coin enters circulation - will you spot one?",
-  "core_conclusion": "",
-  "ts": "2026-08-25T07:28:38+08:00"
- },
- {
-  "id": "2b30eef4bc0c6146",
-  "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-  "core_conclusion": "",
-  "ts": "2026-08-25T07:28:38+08:00"
- },
- {
-  "id": "0b890c5c6de8d365",
-  "title": "How Canada could hit back to hurt the US economy - and Trump",
-  "core_conclusion": "",
-  "ts": "2026-08-25T09:25:46+08:00"
- },
- {
-  "id": "d33ee2806884aa7d",
-  "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
-  "core_conclusion": "",
-  "ts": "2026-08-25T09:25:46+08:00"
- },
- {
-  "id": "fde4d4dfba1a7443",
-  "title": "Burnham refuses to rule out tax rises in autumn Budget",
-  "core_conclusion": "",
-  "ts": "2026-08-25T10:41:54+08:00"
- },
- {
-  "id": "2cec1654bd75747c",
-  "title": "Songs created by AI banned from Australia's music charts",
-  "core_conclusion": "",
-  "ts": "2026-08-25T14:54:07+08:00"
- },
- {
-  "id": "4b098a81eac2723c",
-  "title": "Target Apologizes and Drops Halloween Costume Criticized as Racist",
-  "core_conclusion": "",
-  "ts": "2026-08-25T17:39:19+08:00"
- },
- {
-  "id": "f202d8359815dd81",
-  "title": "Is It Time for This 95-Year-Old Pianist to Retire?",
-  "core_conclusion": "",
-  "ts": "2026-08-25T17:39:19+08:00"
- },
- {
-  "id": "efb4768c61791d2e",
-  "title": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
-  "core_conclusion": "",
-  "ts": "2026-08-25T17:39:19+08:00"
- },
- {
-  "id": "e7998feb6f5941c1",
-  "title": "OnlyFans owner was paid over $700m before his death",
-  "core_conclusion": "",
-  "ts": "2026-08-25T18:36:25+08:00"
- },
- {
-  "id": "72bb12382eb48adc",
-  "title": "The Heat on Treasury Secretary Scott Bessent Grows",
-  "core_conclusion": "",
-  "ts": "2026-08-25T20:53:13+08:00"
- },
- {
-  "id": "27f0b03bf022c497",
-  "title": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
-  "core_conclusion": "",
-  "ts": "2026-08-25T20:53:13+08:00"
- },
- {
-  "id": "ec53320c1d56309b",
-  "title": "China Pushes Back After Trump Tightens the Screws on Iran",
-  "core_conclusion": "",
-  "ts": "2026-08-25T21:53:35+08:00"
- },
- {
-  "id": "196795639424f5bc",
-  "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-  "core_conclusion": "",
-  "ts": "2026-08-25T23:46:11+08:00"
- },
- {
-  "id": "f87371ea6a3aede0",
-  "title": "Trump’s Canada Tariffs Rely on Untested Law",
-  "core_conclusion": "",
-  "ts": "2026-08-25T23:46:11+08:00"
- },
- {
   "id": "030441b1e95d0696",
   "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
   "core_conclusion": "",
@@ -4138,5 +4006,71 @@
   "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
   "core_conclusion": "",
   "ts": "2026-09-24T22:20:17+08:00"
+ },
+ {
+  "id": "e3112e85eac90b07",
+  "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "018faac347cefdff",
+  "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "2b9e68b8d099e617",
+  "title": "Trump Struggles to Find Leverage With Xi Over Chinese Exports",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "008e98ac53442cef",
+  "title": "Letterboxd Sees Acquisition Interest From A24, Sony and the New York Times",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "10b1e8248bbcf10e",
+  "title": "Starbucks to Close 250 Stores in the US",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "6ee0c10f8197c2a7",
+  "title": "More Than 167,000 Pounds of Meat With False Inspection Mark Are Recalled",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "5bbd07d054ffa8e1",
+  "title": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "d1cf8b5519b1634d",
+  "title": "The court ordered Trump to restore access for CNN, MS Now and Politico last night.",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "47aa540daec80522",
+  "title": "A Weary Hollywood Celebrates the Prospect of Federal Funding",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "0c9d94b35ed29c0d",
+  "title": "White House Still Bars CNN, MS NOW and Politico Despite Court Blocking Trump’s Ban",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
+ },
+ {
+  "id": "d61ea180e9ea809c",
+  "title": "After a Summer of Disruptions, Here Are the 7 New Rules for Air Travel",
+  "core_conclusion": "",
+  "ts": "2026-09-25T02:36:15+08:00"
  }
 ]
