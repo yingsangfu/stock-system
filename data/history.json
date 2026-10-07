@@ -1,83 +1,5 @@
 [
  {
-  "id": "f28ad05132d54d5b",
-  "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
-  "core_conclusion": "",
-  "ts": "2026-09-07T04:42:27+08:00"
- },
- {
-  "id": "45b2429b1e8f506b",
-  "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
-  "core_conclusion": "",
-  "ts": "2026-09-07T06:47:55+08:00"
- },
- {
-  "id": "fa945318adbda3e9",
-  "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
-  "core_conclusion": "",
-  "ts": "2026-09-07T08:47:25+08:00"
- },
- {
-  "id": "83527619bec64a61",
-  "title": "The £70 refund letter that isn't a scam",
-  "core_conclusion": "",
-  "ts": "2026-09-07T08:47:25+08:00"
- },
- {
-  "id": "27ef146c752e3532",
-  "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-  "core_conclusion": "",
-  "ts": "2026-09-07T08:47:25+08:00"
- },
- {
-  "id": "52f0e69d520275be",
-  "title": "China to pump $54bn into state banks and insurers to boost economy",
-  "core_conclusion": "",
-  "ts": "2026-09-07T13:50:33+08:00"
- },
- {
-  "id": "af74d73186551502",
-  "title": "Australians will be able to switch off social media algorithms under planned legislation",
-  "core_conclusion": "",
-  "ts": "2026-09-07T13:50:33+08:00"
- },
- {
-  "id": "844f88e17518541c",
-  "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
-  "id": "cd048ddc3d667a85",
-  "title": "Why are European countries moving their gold out of North America?",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
-  "id": "4ec46e6c27a8a016",
-  "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
-  "id": "657ce69628a68331",
-  "title": "More funding needed to boost construction jobs for young people, housing boss says",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
-  "id": "2e5297cbbbdebe49",
-  "title": "Social Media in China Is Getting Really Dark",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
-  "id": "d3492b83a078dd3f",
-  "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
-  "core_conclusion": "",
-  "ts": "2026-09-07T19:59:36+08:00"
- },
- {
   "id": "3d6579d328752e6e",
   "title": "Next wins key appeal to overturn £30m equal pay ruling",
   "core_conclusion": "",
@@ -4198,5 +4120,41 @@
   "title": "Porsche, Facing Falling Profits, Plans to Cut 25% of Its Work Force",
   "core_conclusion": "",
   "ts": "2026-10-07T23:20:36+08:00"
+ },
+ {
+  "id": "b41a41921ee860d7",
+  "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
+ },
+ {
+  "id": "45286291c2322ed9",
+  "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
+ },
+ {
+  "id": "164877ce9e8e48aa",
+  "title": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
+ },
+ {
+  "id": "e4b7694e963a9281",
+  "title": "6 Broken Bathrooms Force Flight to Make an Urgent Landing",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
+ },
+ {
+  "id": "8094e1d02db22cad",
+  "title": "Can Bergdorf Goodman Return to Its Golden Age?",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
+ },
+ {
+  "id": "7af033cdba0c5569",
+  "title": "Trump Administration Delays Threaten Funding for HIV Research",
+  "core_conclusion": "",
+  "ts": "2026-10-08T04:43:19+08:00"
  }
 ]
