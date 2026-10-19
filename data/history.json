@@ -1,119 +1,5 @@
 [
  {
-  "id": "fa1b368e88c3b8da",
-  "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "bf79e628cfa3b2e9",
-  "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "dfc80db4fd836351",
-  "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "86ef1dffa4de987b",
-  "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "70a00a19036a3dbb",
-  "title": "S.E.C. Seeks to End Shareholder Proposals Process Commonly Used by Activists",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "a89f3754e00c3da4",
-  "title": "Disney Hires Its First CTO Amid Industry Push to Embrace A.I.",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "f74c1c31fc465b25",
-  "title": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "554222e1d7c18ad4",
-  "title": "What Set Off the Rise in Interest Rates? Mainly, the Iran War.",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "5e2f08bb742a86bd",
-  "title": "Use of GLP-1s Like Ozempic Is Forcing Food Companies to Adapt",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "16b468b15fec8abf",
-  "title": "Kremlin Moves to Seize Control of Nestlé’s Russia Operations",
-  "core_conclusion": "",
-  "ts": "2026-09-19T02:10:02+08:00"
- },
- {
-  "id": "b987ea1e5de123eb",
-  "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-  "core_conclusion": "",
-  "ts": "2026-09-19T05:08:07+08:00"
- },
- {
-  "id": "8c93034ae3abe2aa",
-  "title": "Trump Promotes Program to Reduce Medicaid Drug Prices",
-  "core_conclusion": "",
-  "ts": "2026-09-19T05:08:07+08:00"
- },
- {
-  "id": "db341cd9a5445b24",
-  "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-  "core_conclusion": "",
-  "ts": "2026-09-19T05:08:07+08:00"
- },
- {
-  "id": "00b2a4776d3565d0",
-  "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-  "core_conclusion": "",
-  "ts": "2026-09-19T05:08:07+08:00"
- },
- {
-  "id": "a5d5890136cd84a5",
-  "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
-  "core_conclusion": "",
-  "ts": "2026-09-19T05:08:07+08:00"
- },
- {
-  "id": "a3878a2e477693d7",
-  "title": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-  "core_conclusion": "",
-  "ts": "2026-09-19T11:53:20+08:00"
- },
- {
-  "id": "a5da68232224ebff",
-  "title": "10 Ways to Explain Why Interest Rates Are So High",
-  "core_conclusion": "",
-  "ts": "2026-09-19T20:58:37+08:00"
- },
- {
-  "id": "d83c0f33612078be",
-  "title": "A Borrower’s Timeline of the Public Service Loan Forgiveness Quagmire",
-  "core_conclusion": "",
-  "ts": "2026-09-19T20:58:37+08:00"
- },
- {
-  "id": "28257117cd6fd3e4",
-  "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
-  "core_conclusion": "",
-  "ts": "2026-09-19T20:58:37+08:00"
- },
- {
   "id": "5ec7154d41e12ce4",
   "title": "CNN, MS NOW and Politico Barred From White House After Trump Announces Ban",
   "core_conclusion": "",
@@ -3934,5 +3820,59 @@
   "title": "The VW Bus, Now Electrified, Keeps on Truckin’",
   "core_conclusion": "",
   "ts": "2026-10-19T18:13:10+08:00"
+ },
+ {
+  "id": "17b4c9addfad523d",
+  "title": "Vinted blocks French looters listing stolen goods for sale",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "d5f21e354571b2a4",
+  "title": "Bikes 'not for jousting,' says Lime after duel video",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "95b171d5547ec461",
+  "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "a714f235846eea08",
+  "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "edc917800143e1c5",
+  "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "c8c278ac7423c9a6",
+  "title": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "2b0898bb4958eaa0",
+  "title": "At Victoria’s Secret’s 2026 Fashion Show, an Old Stereotype of Sexy",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "1698d7910d34cc31",
+  "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
+ },
+ {
+  "id": "85d02aebd87c29b2",
+  "title": "Anthropic’s I.P.O. Charity",
+  "core_conclusion": "",
+  "ts": "2026-10-20T01:06:06+08:00"
  }
 ]
