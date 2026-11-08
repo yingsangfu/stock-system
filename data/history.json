@@ -1,191 +1,5 @@
 [
  {
-  "id": "dbf00e3beff1e588",
-  "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "7ea73cd2d8d37b41",
-  "title": "White House blocks Microsoft from foreign worker hiring program",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "bf3a0440513c7968",
-  "title": "Adidas sues Australian label White Fox over four stripes design",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "17ef23897a6d1f4a",
-  "title": "Plans to shut Marston's Brewery in Burton revealed",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "2222e5b7ae05a237",
-  "title": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "b8d7123bc7a48477",
-  "title": "Shifting Eating Habits Have PepsiCo Investors Seeking Operational Changes",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "04ad2a6cbe22e748",
-  "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "1aa658bf5ca4b25d",
-  "title": "A.I. Fueled More Resilient Global Growth, W.T.O. Says",
-  "core_conclusion": "",
-  "ts": "2026-10-09T04:34:12+08:00"
- },
- {
-  "id": "9de2ab9917403c76",
-  "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-  "core_conclusion": "",
-  "ts": "2026-10-09T09:02:59+08:00"
- },
- {
-  "id": "aa5096d7fe345d28",
-  "title": "'Add me to WhatsApp' scam calls to be investigated",
-  "core_conclusion": "",
-  "ts": "2026-10-09T09:02:59+08:00"
- },
- {
-  "id": "0fa55876b7cdfed8",
-  "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-  "core_conclusion": "",
-  "ts": "2026-10-09T09:02:59+08:00"
- },
- {
-  "id": "16ff96bdd8220221",
-  "title": "Why are more roofs not made of solar tiles?",
-  "core_conclusion": "",
-  "ts": "2026-10-09T09:02:59+08:00"
- },
- {
-  "id": "2c78f723d66ebe22",
-  "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-  "core_conclusion": "",
-  "ts": "2026-10-09T15:50:44+08:00"
- },
- {
-  "id": "a598303c477d179b",
-  "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-  "core_conclusion": "",
-  "ts": "2026-10-09T15:50:44+08:00"
- },
- {
-  "id": "d7f08bdd502e1fba",
-  "title": "'You cannot build this car anywhere else in the world'",
-  "core_conclusion": "",
-  "ts": "2026-10-09T15:50:44+08:00"
- },
- {
-  "id": "52e12c0638ec5e0a",
-  "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "1e7e408d68c0c10f",
-  "title": "Burnham promises to curb non-compete rules in job contracts",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "417070748e768541",
-  "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "4755034791804e97",
-  "title": "Anthropic bans users from being 'cruel' to its AI systems",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "9c6d5e42375e5979",
-  "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "77d68d1e2f4afe93",
-  "title": "Everton owners consider selling club two years after takeover",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "9eb3eab2a359b403",
-  "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "22c8e72290f270f1",
-  "title": "China and Europe Agree to Deal to Limit Chinese Exports of Hybrid Cars",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "ac905705e245e799",
-  "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "d842ec8237ed0a31",
-  "title": "How Correspondent Banking Can Enable Sanctions Evasion",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "32f741c49ee64f7c",
-  "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk’s Service.",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "9b801f94c798a373",
-  "title": "The Fallout From OpenAI’s Revenue Surprise",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "9f453964fd23ee23",
-  "title": "The Winning Stock Funds This Time Weren’t Tech. They Were Energy.",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "ea93c3b0bd6cc913",
-  "title": "Wayne Lawson, Vanity Fair’s ‘Secret Weapon,’ Has Died",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "7192ad60232347a2",
-  "title": "What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
-  "id": "f91fdf29664acb63",
-  "title": "Clara Wu Tsai, the Billionaire Who Wants Brooklyn to Win",
-  "core_conclusion": "",
-  "ts": "2026-10-09T23:05:55+08:00"
- },
- {
   "id": "ccd45bdc0f79f0f3",
   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
   "core_conclusion": "",
@@ -3616,5 +3430,47 @@
   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
   "core_conclusion": "",
   "ts": "2026-11-08T10:08:01+08:00"
+ },
+ {
+  "id": "1fc8f37b9a9482a8",
+  "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "4016238b20f9d89a",
+  "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "d17f07266eb1ec27",
+  "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "9d0bc4d32b29f125",
+  "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "7e999923d89b9f09",
+  "title": "Can My Company Force Me to Reveal My Personal Email?",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "4b5ce70cf1fe511f",
+  "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
+ },
+ {
+  "id": "b5499f658c2b23b4",
+  "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
+  "core_conclusion": "",
+  "ts": "2026-11-09T00:12:48+08:00"
  }
 ]
