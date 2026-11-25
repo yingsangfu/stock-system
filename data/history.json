@@ -1,107 +1,5 @@
 [
  {
-  "id": "a7d4bd0001eb2273",
-  "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
-  "core_conclusion": "",
-  "ts": "2026-10-26T02:14:47+08:00"
- },
- {
-  "id": "3d8445198afcda86",
-  "title": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
-  "core_conclusion": "",
-  "ts": "2026-10-26T02:14:47+08:00"
- },
- {
-  "id": "e3112e85eac90b07",
-  "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-  "core_conclusion": "",
-  "ts": "2026-10-26T07:27:44+08:00"
- },
- {
-  "id": "018faac347cefdff",
-  "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-  "core_conclusion": "",
-  "ts": "2026-10-26T07:27:44+08:00"
- },
- {
-  "id": "eefb69b5c07ea276",
-  "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-  "core_conclusion": "",
-  "ts": "2026-10-26T09:34:05+08:00"
- },
- {
-  "id": "02743508ed9c89f2",
-  "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-  "core_conclusion": "",
-  "ts": "2026-10-26T09:34:05+08:00"
- },
- {
-  "id": "9a600a3478e41b1b",
-  "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "53d6abfa358d4588",
-  "title": "Healey to shield low-income pensioners from income tax in the Budget",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "7df66bb0a8c53aa9",
-  "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "58819451100cc2d4",
-  "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "85f280e1fab374b8",
-  "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "eb01934e683782f2",
-  "title": "Brazilian Markets Convulse After Unexpected Election Result",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "5adf0a6954dce37e",
-  "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "c02948c63f18c6a7",
-  "title": "Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "1af9c31b3869ba50",
-  "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "a6d086444eb702ab",
-  "title": "5 Hotels That Celebrate Music",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
-  "id": "b52b5a98b69eab6e",
-  "title": "Why Some People Are Paying to Make Friends",
-  "core_conclusion": "",
-  "ts": "2026-10-26T22:58:15+08:00"
- },
- {
   "id": "c14c5f2f70dd0a3b",
   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
   "core_conclusion": "",
@@ -4432,5 +4330,71 @@
   "title": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives",
   "core_conclusion": "",
   "ts": "2026-11-25T22:10:04+08:00"
+ },
+ {
+  "id": "9cd4ad9f73804681",
+  "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "ea3d4d120f58155f",
+  "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "5330f6f79405dfd5",
+  "title": "Poundland collapses putting 11,000 jobs at risk",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "83aab49fa830106a",
+  "title": "US stocks fall further as fears over AI intensify",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "a26b1d072c528ad5",
+  "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "49e7bfd6140d2c2a",
+  "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "4a6af5f8873ea217",
+  "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "95ab65101675868e",
+  "title": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "3485cd27bb3334f0",
+  "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "1b4e27aeff9837a5",
+  "title": "Corporate Oversight Revs Up as Washington Turns Blue Again",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
+ },
+ {
+  "id": "74a9589854c3883d",
+  "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+  "core_conclusion": "",
+  "ts": "2026-11-26T07:13:30+08:00"
  }
 ]
