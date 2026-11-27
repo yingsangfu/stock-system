@@ -1,149 +1,5 @@
 [
  {
-  "id": "f5b1dfc067f46ab7",
-  "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
-  "core_conclusion": "",
-  "ts": "2026-10-28T00:16:33+08:00"
- },
- {
-  "id": "ccb270a908ab654b",
-  "title": "Who Stands to Gain From an Anthropic I.P.O.",
-  "core_conclusion": "",
-  "ts": "2026-10-28T00:16:33+08:00"
- },
- {
-  "id": "35f7c975f5a0cfd6",
-  "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
-  "core_conclusion": "",
-  "ts": "2026-10-28T00:16:33+08:00"
- },
- {
-  "id": "ec528d480a432a63",
-  "title": "My Co-Worker Is Losing It Over My Religion",
-  "core_conclusion": "",
-  "ts": "2026-10-28T00:16:33+08:00"
- },
- {
-  "id": "b1691582fcf94fde",
-  "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-  "core_conclusion": "",
-  "ts": "2026-10-28T04:51:08+08:00"
- },
- {
-  "id": "da34ccf513de6e81",
-  "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-  "core_conclusion": "",
-  "ts": "2026-10-28T04:51:08+08:00"
- },
- {
-  "id": "06de503d91795214",
-  "title": "China's families are now supporting more old people than kids",
-  "core_conclusion": "",
-  "ts": "2026-10-28T08:19:40+08:00"
- },
- {
-  "id": "6d7255a235a0ead8",
-  "title": "'An annoying buzz': The search for stealthier drones",
-  "core_conclusion": "",
-  "ts": "2026-10-28T08:19:40+08:00"
- },
- {
-  "id": "82c3fbdb5f96bb7d",
-  "title": "Landline switchover could cut people off in emergency, minister warned",
-  "core_conclusion": "",
-  "ts": "2026-10-28T08:19:40+08:00"
- },
- {
-  "id": "d4380f3587bfbc83",
-  "title": "Bots Drive Online Chatter About Races in Kansas and Texas",
-  "core_conclusion": "",
-  "ts": "2026-10-28T08:19:40+08:00"
- },
- {
-  "id": "80819365fc82a34a",
-  "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-  "core_conclusion": "",
-  "ts": "2026-10-28T14:05:41+08:00"
- },
- {
-  "id": "61cef7d315b98521",
-  "title": "Judge Limits Candace Owens’s Liability in Macron Defamation Case",
-  "core_conclusion": "",
-  "ts": "2026-10-28T14:05:41+08:00"
- },
- {
-  "id": "cd62961952d31d68",
-  "title": "You may get the right to find out what your colleagues earn - here's why",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "e036d9c73ae688ff",
-  "title": "U.S. Restricts Trade With Chinese Genomics Company",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "107dd6922e204313",
-  "title": "Life Magazine, Chronicler of 20th Century America, Rises Again",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "86162c4481c07b20",
-  "title": "Investors Brace for Big Tech’s A.I. Spending Bill",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "9f4df279f936fc15",
-  "title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "5d672f620c32aba2",
-  "title": "Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "67912734cd03e4a4",
-  "title": "‘One Job Away’ Tries to Help Actors Keep Their Health Insurance",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "fc351b0560dd1391",
-  "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "0d9e74a23d72bb64",
-  "title": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "837d9314940d33f1",
-  "title": "A Punishing Housing Market Is Squeezing Renters",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "ae5e4bcf58084256",
-  "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
-  "id": "2b05d96e6b8986d7",
-  "title": "How to Plan a Trip Around a Running Race",
-  "core_conclusion": "",
-  "ts": "2026-10-28T21:23:23+08:00"
- },
- {
   "id": "52aa4bc1dd514138",
   "title": "Federal Reserve issues FOMC statement",
   "core_conclusion": "",
@@ -4498,5 +4354,59 @@
   "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
   "core_conclusion": "",
   "ts": "2026-11-27T16:57:41+08:00"
+ },
+ {
+  "id": "4cd1eeb3aa5b7f7e",
+  "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "02d494d32f1b8e43",
+  "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "a2b63149702384aa",
+  "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "50cd925be9713434",
+  "title": "Stocks Rally at End of a Week of Wild Swings",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "7ea1a6b5d786d419",
+  "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "187c9d37852b0073",
+  "title": "How to Live Calmly, Despite Stock Market Whiplash",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "824fd2a3fc13eedc",
+  "title": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "0b46e34cf30e4f64",
+  "title": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
+ },
+ {
+  "id": "e117a783dce12df2",
+  "title": "48 Hours in Tokyo With an Airline Pilot",
+  "core_conclusion": "",
+  "ts": "2026-11-28T02:49:24+08:00"
  }
 ]
